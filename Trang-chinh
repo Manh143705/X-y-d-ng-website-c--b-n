@@ -1,0 +1,3451 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link  rel= "apple-touch-icon"  size= "57x57"  href= "../favacation/apple-icon-57x57.png" > 
+<link  rel= "apple-touch-icon"  size= "60x60"  href= "../favacation/apple-icon-60x60.png" > 
+<link  rel= "apple-touch-icon"  size= "72x72"  href= "../favacation/apple-icon-72x72.png" > 
+<link  rel= "apple-touch-icon"  size= "76x76"  href= "../favacation/apple-icon-76x76.png" > 
+<link  rel= "apple-touch-icon"  size= "114x114"  href= "../favacation/apple-icon-114x114.png" > 
+<link  rel= " apple-touch-icon"  size= "120x120"  href= "../favacation/apple-icon-120x120.png" > 
+<link  rel= "apple-touch-icon"  size= "144x144"  href= "../favacation/apple-icon-144x144.png" > 
+<link  rel= "apple-touch-icon"  size= "152x152"  href= "../favacation/apple-icon-152x152.png" > 
+<link  rel= "apple-touch-icon"  size= "180x180"  href= "../favacation/apple-icon-180x180.png" > 
+<link  rel= "icon"  type= "image/png"  size= "192x192"   href= "../favacation/android-icon-192x192.png" > 
+<link  rel= "icon"  type= "image/png"  size= "32x32"  href= "../favacation/favicon-32x32.png" > 
+<link  rel= "icon"  type= "image/png"  size= "96x96"  href= "../favacation/favicon-96x96.png" > 
+<link  rel= "icon"  type= "image/png"  size= "16x16"  href= "../favacation/favicon-16x16.png" > 
+<link  rel= "manifest"  href= "../favacation/manifest.json" > 
+<meta  name= "msapplication-TileColor"  content= "#ffffff" > 
+<meta  name= "msapplication-TileImage"  content= "../favacation/ms-icon-144x144.png" > 
+<meta  name= "theme-color"  nội dung = "#ffffff" >
+    <title>Điện thoại Iphone chính hãng</title>
+</head>
+<body class="">
+        <header>
+        <div class="head">
+            <div class="logo-topzone">
+                <a href="/">
+                    <i class="topzone-logo  "></i>
+                </a>
+                <a href="#">
+                    <i class="topzone-autho  "></i>
+                </a>
+            </div>
+            <ul class="menu">
+                <li class="menu-ip ">
+                    <a href="#">
+                        <span>iPhone</span>
+                    </a>
+                </li>
+                <li class="menu-mac ">
+                    <a href="#">
+                        <span>Mac</span>
+                    </a>
+                </li>
+                <li class="menu-ipad ">
+                    <a href="./Ipad.html">
+                        <span>iPad</span>
+                    </a>
+                </li>
+                <li class="menu-watch ">
+                    <a href="#">
+                        <span>Watch</span>
+                    </a>
+                </li>
+                
+                <li class="menu-sound ">
+                    <a href="#">
+                        <span>Tai nghe,  Loa</span>
+                    </a>
+                </li>
+               
+                <li class="menu-access ">
+                    <a href="#">
+                        <span>Phụ kiện</span>
+                    </a>
+                </li>
+                    <li class="menu-news ">
+                        <a href="#">
+                            <span>TekZone</span>
+                        </a>
+                    </li>
+                    <li class="menu-access ">
+                        <a href="#">
+                            <span>TopCare</span>
+                        </a>
+                    </li>
+            </ul>
+            <div class="search-cart">
+                <div class="search-sp">
+                    <i class="topzone-search"></i>
+                </div>
+                <a href="#" class="cart">
+                    <i class="topzone-cart"></i>
+                </a>
+            </div>
+            <form class="form-search" >
+                <div class="click-search">
+                    <i class="topzone-search"></i>
+                    <input type="text" placeholder="Tìm kiếm sản phẩm">
+                    <i class="topzone-delSearch"></i>
+                </div>
+            </form>
+        </div>
+    </header>
+    <div class="bg-sg"></div>
+        <section>
+            <div class="slide-home owl-carousel owl-theme">
+                <a href="#" >
+                <img width='1920' height='400' src="https://cdn.tgdd.vn/2024/05/banner/2880x800-1920x533-2.png" alt="NTT iPad Pro M4"></a>
+                <a href="" >
+                <img width='1920' height='400'  class="lazyload owl-lazy" src="https://cdn.tgdd.vn/2024/04/banner/dandau-2880-800--1--1920x533.png" alt="ốp lưng"></a>
+                <a href="" >
+                <img width='1920' height='400'  class="lazyload owl-lazy" src="https://cdn.tgdd.vn/2024/04/banner/ip15-DD-2880-800-1920x533.png" alt="tai nghe airpods"></a>
+                <a href="" >
+                <img width='1920' height='400'  class="lazyload owl-lazy" src="https://cdn.tgdd.vn/2024/04/banner/MAC-Air-M2-DD-2880-800-1920x533.png" alt="ốp lưng"></a>
+                <a href="" >
+                <img width='1920' height='400'  class="lazyload owl-lazy" src="https://cdn.tgdd.vn/2024/04/banner/AW-SE-DD-2880-800-1920x533.png" alt="tai nghe airpods"></a>
+                <a  href="">
+                <img width='1920' height='400'  class="lazyload owl-lazy" src="https://cdn.tgdd.vn/2024/04/banner/AirPods-Pro-2-2880-800-1920x533.png" alt="ốp lưng"></a>
+            </div>
+
+            <div class=" flashsale-block" id="flashsale">
+                <div class="stage-two"><div class="load"></div></div> 
+                <div class="flex-fs">
+                    <div class="gvdshock"> 
+                        <h3>
+                            <i class="lightning-ic">
+                                <img width="32" height="70" src="../img/icon-fs.png" alt="lightningicon" />
+                            </i>
+                        </h3>
+                        <div class="endtime" data-countdown="5/30/2024 11:59:00 PM" data-begin="5/30/2024 9:05:00 AM">
+                            <span class="title-end">Kết thúc trong</span>
+                            <span class="countdown-timer calling">
+                                <label id="hour">00</label>
+                                <label id="minute">00</label>
+                                <label id="second">00</label>
+                            </span>
+                        </div>
+                    </div>
+                    <div class="listing-timeline">
+                        <a href="" class="active" >
+                            <span>Đang diễn ra</span>
+                            <span class="timeline">09:05 - 23:59</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="box-scroll">
+                    <div class="listproduct slider-flashsale owl-carousel" >  
+                        <div class="item" >
+                            <a href=''  >
+                                <div class="item-img">
+                                    <img src="https://cdn.tgdd.vn/Products/Images/42/251192/s16/iphone-14-pro-max-purple-650x650.png" class="lazyload" alt="iPhone 14 Pro Max 128GB" width=207 height=207>
+                                </div>
+                                <h3>iPhone 14 Pro Max 128GB</h3>
+                                <strong class="price">
+                                    26.690.000&#x20AB;
+                                    <span class="price-and-discount">
+                                        <label class="price-old black">
+                                            29.490.000&#x20AB;
+                                        </label>
+                                        <small>-9%</small>
+                                    </span>
+                                </strong>
+                            </a>
+    
+                        </div>
+                        <div class="item" >
+                            <a href='' >
+                            <div class="item-img">
+                                <img src="https://cdn.tgdd.vn/Products/Images/2162/325330/s16/loa-bluetooth-marshall-willen-kem-650x650.png" class="lazyload" alt="Loa Bluetooth Marshall Willen" width=207 height=207>
+                            </div>
+                            <h3>Loa Bluetooth Marshall Willen</h3>
+                            <strong class="price">
+                                2.510.000&#x20AB;
+                                <span class="price-and-discount">
+                                    <label class="price-old black">
+                                        2.790.000&#x20AB;
+                                    </label>
+                                        <small>-10%</small>
+                                </span>
+                            </strong>
+                            </a>
+    
+                        </div>
+                        <div class="item">
+                            <a href='' >
+                            <div class="item-img">
+                                <img src="https://cdn.tgdd.vn/Products/Images/2162/242826/s16/bluetooth-jbl-go-3-xanh-xanh-tn-650x650.png" class="lazyload" alt="Loa Bluetooth JBL Go 3" width=207 height=207>
+                            </div>
+                            <h3>Loa Bluetooth JBL Go 3</h3>
+                            <strong class="price">
+                                890.000&#x20AB;
+                                <span class="price-and-discount">
+                                    <label class="price-old black">
+                                        1.090.000&#x20AB;
+                                    </label>
+                                    <small>-18%</small>
+                                </span>
+                            </strong>
+                            </a>
+    
+                        </div>
+                        <div class="item" >
+                            <a href='' >
+                            <div class="item-img">
+                                <img src="https://cdn.tgdd.vn/Products/Images/54/75430/s16/tai-nghe-sony-mdr-zx110ap-den-tn-650x650.png" class="lazyload" alt="Tai nghe ch&#x1EE5;p tai Sony MDR-ZX110AP" width=207 height=207>
+                            </div>
+                            <h3>Tai nghe chụp tai Sony MDR-ZX110AP</h3>
+                            <strong class="price">
+                                430.000&#x20AB;
+                                <span class="price-and-discount">
+                                    <label class="price-old black">
+                                        540.000&#x20AB;
+                                    </label>
+                                    <small>-20%</small>
+                                </span>
+                            </strong>
+                            </a>
+                        </div>
+                        <div class="item">
+                        <a href='' >
+            <div class="item-img">
+                    <img src="https://cdn.tgdd.vn/Products/Images/2162/304567/s16/loa-bluetooth-jbl-flip-6-trang-120923-013306-650x650.png" class="lazyload" alt="Loa Bluetooth JBL Flip 6" width=207 height=207>
+            </div>
+            <h3>Loa Bluetooth JBL Flip 6</h3>
+                        <strong class="price">
+                            2.590.000&#x20AB;
+                            <span class="price-and-discount">
+                                <label class="price-old black">
+                                    2.990.000&#x20AB;
+                                </label>
+                                    <small>-13%</small>
+                            </span>
+                        </strong>
+        </a>
+                </div>
+                <div class="item">
+                        <a href='' >
+            <div class="item-img">
+                    <img src="https://cdn.tgdd.vn/Products/Images/2162/325331/s16/loa-bluetooth-marshall-emberton-den-650x650.png" class="lazyload" alt="Loa Bluetooth Marshall Emberton II" width=207 height=207>
+            </div>
+            <h3>Loa Bluetooth Marshall Emberton II</h3>
+                        <strong class="price">
+                            4.490.000&#x20AB;
+                            <span class="price-and-discount">
+                                <label class="price-old black">
+                                    4.990.000&#x20AB;
+                                </label>
+                                    <small>-10%</small>
+                            </span>
+                        </strong>            
+        </a>
+                </div>
+                <div class="item">
+                        <a href='' >
+            <div class="item-img">
+                    <img src="https://cdn.tgdd.vn/Products/Images/57/308497/s16/pin-sac-du-phong-polymer-10000mah-type-c-pd-qc3-0-22-5w-mazer-super-mini-v2-den-thumb-650x650.png" class="lazyload" alt="Pin s&#x1EA1;c d&#x1EF1; ph&#xF2;ng Polymer 10000mAh Type C PD QC3.0 22.5W Mazer Super Mini V2" width=207 height=207>
+            </div>
+            <h3>Pin sạc dự phòng Polymer 10000mAh Type C PD QC3.0 22.5W Mazer Super Mini V2</h3>
+                        <strong class="price">
+                            515.000&#x20AB;
+                            <span class="price-and-discount">
+                                <label class="price-old black">
+                                    940.000&#x20AB;
+                                </label>
+                                    <small>-45%</small>
+                            </span>
+                        </strong>
+        </a>
+                </div>
+                <div class="item">
+                        <a href=''>
+            <div class="item-img">
+                    <img src="https://cdn.tgdd.vn/Products/Images/2162/325332/s16/loa-bluetooth-marshall-middleton-den-650x650.png" class="lazyload" alt="Loa Bluetooth Marshall Middleton" width=207 height=207>
+            </div>
+            <h3>Loa Bluetooth Marshall Middleton</h3>
+                        <strong class="price">
+                            8.090.000&#x20AB;
+                            <span class="price-and-discount">
+                                <label class="price-old black">
+                                    8.990.000&#x20AB;
+                                </label>
+                                    <small>-10%</small>
+                            </span>
+                        </strong>              
+        </a>
+                </div>
+                <div class="item" >
+                        <a href='' >
+            <div class="item-img">
+                    <img src="https://cdn.tgdd.vn/Products/Images/2162/325333/s16/loa-bluetooth-marshall-stockwell-ii-650x650.png" class="lazyload" alt="Loa Bluetooth Marshall Stockwell II" width=207 height=207>
+            </div>
+            <h3>Loa Bluetooth Marshall Stockwell II</h3>
+                        <strong class="price">
+                            5.990.000&#x20AB;
+                            <span class="price-and-discount">
+                                <label class="price-old black">
+                                    6.690.000&#x20AB;
+                                </label>
+                                    <small>-10%</small>
+                            </span>
+                        </strong>
+        </a>
+                </div>
+                <div class="item">
+                        <a href='' >
+            <div class="item-img">
+                    <img src="https://cdn.tgdd.vn/Products/Images/2162/325334/s16/loa-bluetooth-marshall-kilburn-ii-650x650.png" class="lazyload" alt="Loa Bluetooth Marshall Kilburn II" width=207 height=207>
+            </div>
+            <h3>Loa Bluetooth Marshall Kilburn II</h3>
+                        <strong class="price">
+                            8.090.000&#x20AB;
+                            <span class="price-and-discount">
+                                <label class="price-old black">
+                                    8.990.000&#x20AB;
+                                </label>
+                                    <small>-10%</small>
+                            </span>
+                        </strong>
+        </a>
+                </div>
+                <div class="item">
+                        <a href='' >
+            <div class="item-img">
+                    <img src="https://cdn.tgdd.vn/Products/Images/2162/325336/s16/loa-bluetooth-marshall-acton-iii-kem-650x650.png" class="lazyload" alt="Loa Bluetooth Marshall Acton III" width=207 height=207>
+            </div>
+            <h3>Loa Bluetooth Marshall Acton III</h3>
+                        <strong class="price">
+                            7.190.000&#x20AB;
+                            <span class="price-and-discount">
+                                <label class="price-old black">
+                                    7.990.000&#x20AB;
+                                </label>
+                                    <small>-10%</small>
+                            </span>
+                        </strong>
+        </a>
+                </div>
+                <div class="item" >
+                        <a href='' >
+            <div class="item-img">
+                    <img src="https://cdn.tgdd.vn/Products/Images/2162/299608/s16/loa-bluetooth-jbl-pulse-5-thumb-1-650x650.png" class="lazyload" alt="Loa Bluetooth JBL Pulse 5" width=207 height=207>
+            </div>
+            <h3>Loa Bluetooth JBL Pulse 5</h3>
+                        <strong class="price">
+                            5.490.000&#x20AB;
+                            <span class="price-and-discount">
+                                <label class="price-old black">
+                                    6.690.000&#x20AB;
+                                </label>
+                                    <small>-17%</small>
+                            </span>
+                        </strong>
+        </a>
+                </div>
+                <div class="item" >
+                        <a href='' >
+            <div class="item-img">
+                    <img src="https://cdn.tgdd.vn/Products/Images/2162/325335/s16/loa-bluetooth-marshall-tufton-650x650.png" class="lazyload" alt="Loa Bluetooth Marshall Tufton" width=207 height=207>
+            </div>
+            <h3>Loa Bluetooth Marshall Tufton</h3>
+                        <strong class="price">
+                            11.690.000&#x20AB;
+                            <span class="price-and-discount">
+                                <label class="price-old black">
+                                    12.990.000&#x20AB;
+                                </label>
+                                    <small>-10%</small>
+                            </span>
+                        </strong>          
+        </a>
+                </div>
+                <div class="item">
+                        <a href='' >
+            <div class="item-img">
+                    <img src="https://cdn.tgdd.vn/Products/Images/2162/325337/s16/loa-bluetooth-marshall-stanmore-iii-den-650x650.png" class="lazyload" alt="Loa Bluetooth Marshall Stanmore III" width=207 height=207>
+            </div>
+            <h3>Loa Bluetooth Marshall Stanmore III</h3>
+                        <strong class="price">
+                            10.790.000&#x20AB;
+                            <span class="price-and-discount">
+                                <label class="price-old black">
+                                    11.990.000&#x20AB;
+                                </label>
+                                    <small>-10%</small>
+                            </span>
+                        </strong>
+        </a>
+                </div>
+                <div class="item">
+                        <a href='' >
+            <div class="item-img">
+                    <img src="https://cdn.tgdd.vn/Products/Images/2162/325338/s16/loa-bluetooth-marshall-woburn-iii-den-650x650.png" class="lazyload" alt="Loa Bluetooth Marshall Woburn III" width=207 height=207>
+            </div>
+            <h3>Loa Bluetooth Marshall Woburn III</h3>
+                        <strong class="price">
+                            16.190.000&#x20AB;
+                            <span class="price-and-discount">
+                                <label class="price-old black">
+                                    17.990.000&#x20AB;
+                                </label>
+                                    <small>-10%</small>
+                            </span>
+                        </strong>
+        </a>
+                </div>
+                <div class="item" >
+                        <a href='' >
+            <div class="item-img">
+                    <img src="https://cdn.tgdd.vn/Products/Images/57/291984/s16/sac-du-phong-polymer-5000mah-magnetic-type-c-anker-maggo-a1611-den-thumb-5-1-650x650.png" class="lazyload" alt="Pin s&#x1EA1;c d&#x1EF1; ph&#xF2;ng Polymer 5000mAh kh&#xF4;ng d&#xE2;y Magnetic Type C 12W Anker MagGo A1611" width=207 height=207>
+            </div>
+            <h3>Pin sạc dự phòng Polymer 5000mAh không dây Magnetic Type C 12W Anker MagGo A1611</h3>
+                        <strong class="price">
+                            850.000&#x20AB;
+                            <span class="price-and-discount">
+                                <label class="price-old black">
+                                    1.280.000&#x20AB;
+                                </label>
+                                    <small>-33%</small>
+                            </span>
+                        </strong>
+        </a>
+                </div>
+                </div>
+            </div>
+        </div>
+    
+            <div class="warpper-box-product ">
+                <div class="box-cate-product ">
+                        <ul class="choose-cate  ">
+            <li>
+                <a href="#">
+                    <div class="img-catesp cateiphone">
+                        <img src="https://cdn.tgdd.vn/mwgcart/topzone/images/desktop/IP_Desktop.png" alt="" width="102" height="112">
+                    </div>
+                    <span>iPhone</span>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <div class="img-catesp catemac">
+                        <img src="https://cdn.tgdd.vn/mwgcart/topzone/images/desktop/Mac_Desktop.png" alt="" width="150" height="97">
+                    </div>
+                    <span>Mac</span>
+                </a>
+            </li>
+            <li>
+                <a href="./Ipad.html">
+                    <div class="img-catesp cateipad">
+                        <img src="https://cdn.tgdd.vn/mwgcart/topzone/images/desktop/IPad_Desktop.png" alt="" width="116" height="102">
+                    </div>
+                    <span>iPad</span>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <div class="img-catesp catewatch">
+                        <img src="https://cdn.tgdd.vn/mwgcart/topzone/images/desktop/Watch_Desktop.png" alt="" width="169" height="110">
+                    </div>
+                    <span>Watch</span>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <div class="img-catesp cateisound">
+                        <img src="https://cdn.tgdd.vn/mwgcart/topzone/images/desktop/Amthanh_Desktop.png" alt="" width="169" height="124">
+                    </div>
+                    <span>Tai nghe, loa</span>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <div class="img-catesp catephukien">
+                        <img src="https://cdn.tgdd.vn/mwgcart/topzone/images/desktop/PK_Desktop.png" alt="" width="71" height="100">
+                    </div>
+                    <span>Phụ kiện</span>
+                </a>
+            </li>
+        </ul>
+    
+    
+    
+                        <div class="box-slide">
+            <a href="#" class="logo-cate  ">
+                        <i class="topzone-iconapple"></i>
+                        <h2 class="title-text">iPhone</h2>
+            </a>
+            <div class="slide-cate owl-carousel owl-theme">
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label >Mới</label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/42/305658/s16/iphone-15-pro-max-blue-1-2-650x650.png" class="lazyload" alt="iPhone 15 Pro Max 256GB" width=300 height=300>
+            </div>
+            <h3>iPhone 15 Pro Max 256GB</h3>
+                        <span class="box-price">
+                            29.590.000&#x20AB;
+                            <strike>34.990.000&#x20AB;</strike>
+                                <small>-15%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label >Mới</label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/42/299033/s16/iphone-15-pro-white-1-2-650x650.png" class="lazyload" alt="iPhone 15 Pro 128GB" width=300 height=300>
+            </div>
+            <h3>iPhone 15 Pro 128GB</h3>
+                        <span class="box-price">
+                            24.590.000&#x20AB;
+                            <strike>28.990.000&#x20AB;</strike>
+                                <small>-15%</small>
+                        </span>
+                <p class="item-txt-online orange">Online giá rẻ quá</p>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label >Mới</label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/42/303891/s16/iphone-15-plus-pink-1-2-650x650.png" class="lazyload" alt="iPhone 15 Plus 128GB" width=300 height=300>
+            </div>
+            <h3>iPhone 15 Plus 128GB</h3>
+                        <span class="box-price">
+                            22.190.000&#x20AB;
+                            <strike>25.990.000&#x20AB;</strike>
+                                <small>-14%</small>
+                        </span>
+                <p class="item-txt-online orange">Online giá rẻ quá</p>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label >Mới</label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/42/281570/s16/iphone-15-pink-1-2-650x650.png" class="lazyload" alt="iPhone 15 128GB" width=300 height=300>
+            </div>
+            <h3>iPhone 15 128GB</h3>
+                        <span class="box-price">
+                            18.990.000&#x20AB;
+                            <strike>22.990.000&#x20AB;</strike>
+                                <small>-17%</small>
+                        </span>
+                <p class="item-txt-online orange">Online giá rẻ quá</p>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/42/153856/s16/iphone-11-white-1-2-3-650x650.png" class="lazyload" alt="iPhone 11 64GB" width=300 height=300>
+            </div>
+            <h3>iPhone 11 64GB</h3>
+                        <span class="box-price">
+                            8.690.000&#x20AB;
+                            <strike>11.790.000&#x20AB;</strike>
+                                <small>-26%</small>
+                        </span>
+                <p class="item-txt-online orange">Online giá rẻ quá</p>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/42/223602/s16/iphone-13-green-1-2-3-650x650.png" class="lazyload" alt="iPhone 13 128GB" width=300 height=300>
+            </div>
+            <h3>iPhone 13 128GB</h3>
+                        <span class="box-price">
+                            13.690.000&#x20AB;
+                            <strike>17.790.000&#x20AB;</strike>
+                                <small>-23%</small>
+                        </span>
+                <p class="item-txt-online orange">Online giá rẻ quá</p>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/42/213031/s16/iphone-12-green-1-2-3-650x650.png" class="lazyload" alt="iPhone 12 64GB" width=300 height=300>
+            </div>
+            <h3>iPhone 12 64GB</h3>
+                        <span class="box-price">
+                            11.590.000&#x20AB;
+                            <strike>13.090.000&#x20AB;</strike>
+                                <small>-11%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item">
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/42/251192/s16/iphone-14-pro-max-purple-650x650.png" class="lazyload" alt="iPhone 14 Pro Max 128GB" width=300 height=300>
+            </div>
+            <h3>iPhone 14 Pro Max 128GB</h3>
+                        <span class="box-price">
+                            26.690.000&#x20AB;
+                            <strike>29.490.000&#x20AB;</strike>
+                                <small>-9%</small>
+                        </span>
+                <p class="item-txt-online orange">Online giá rẻ quá</p>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/42/240259/s16/iphone-14-purple-650x650.png" class="lazyload" alt="iPhone 14 128GB" width=300 height=300>
+            </div>
+            <h3>iPhone 14 128GB</h3>
+                        <span class="box-price">
+                            16.490.000&#x20AB;
+                            <strike>19.090.000&#x20AB;</strike>
+                                <small>-13%</small>
+                        </span>
+                <p class="item-txt-online orange">Online giá rẻ quá</p>
+        </a>
+    
+                    </div>
+                    <div class="item">
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/42/245545/s16/iphone-14-plus-blue-1-2-650x650.png" class="lazyload" alt="iPhone 14 Plus 128GB" width=300 height=300>
+            </div>
+            <h3>iPhone 14 Plus 128GB</h3>
+                        <span class="box-price">
+                            19.390.000&#x20AB;
+                            <strike>22.290.000&#x20AB;</strike>
+                                <small>-13%</small>
+                        </span>
+                <p class="item-txt-online orange">Online giá rẻ quá</p>
+        </a>
+    
+                    </div>
+                    <div class="item">
+                        
+        <a href="#" class="main-contain">
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/42/210644/s16/iphone-11-black-1-2-3-650x650.png" class="lazyload" alt="iPhone 11 128GB" width=300 height=300>
+            </div>
+            <h3>iPhone 11 128GB</h3>
+                        <span class="box-price">
+                            9.890.000&#x20AB;
+                            <strike>13.390.000&#x20AB;</strike>
+                                <small>-26%</small>
+                        </span>
+                <p class="item-txt-online orange">Online giá rẻ quá</p>
+        </a>
+    
+                    </div>
+                    <div class="item">
+                        
+        <a href="#" class="main-contain">
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/42/228736/s16/iphone-12-green-1-2-3-650x650.png" class="lazyload" alt="iPhone 12 128GB" width=300 height=300>
+            </div>
+            <h3>iPhone 12 128GB</h3>
+                        <span class="box-price">
+                            12.990.000&#x20AB;
+                            <strike>14.690.000&#x20AB;</strike>
+                                <small>-11%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item">
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_300x300/https://cdn.tgdd.vn/Products/Images/42/228737/s16/iphone-12-red-1-2-3-650x650.png" class="lazyload" alt="iPhone 12 256GB" width=300 height=300>
+            </div>
+            <h3>iPhone 12 256GB</h3>
+                        <span class="box-price">
+                            14.990.000&#x20AB;
+                            <strike>16.790.000&#x20AB;</strike>
+                                <small>-10%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/42/230521/s16/iphone-13-pro-gold-650x650.png" class="lazyload" alt="iPhone 13 Pro 128GB" width=300 height=300>
+            </div>
+            <h3>iPhone 13 Pro 128GB</h3>
+                        <span class="box-price">
+                            21.990.000&#x20AB;
+                            <strike>23.990.000&#x20AB;</strike>
+                                <small>-8%</small>
+                        </span>
+                <p class="item-txt-online ">Tạm hết hàng</p>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain">
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/42/250258/s16/iphone-13-blue-1-2-3-650x650.png" class="lazyload" alt="iPhone 13 256GB" width=300 height=300>
+            </div>
+            <h3>iPhone 13 256GB</h3>
+                        <span class="box-price">
+                            16.990.000&#x20AB;
+                            <strike>20.990.000&#x20AB;</strike>
+                                <small>-19%</small>
+                        </span>
+                <p class="item-txt-online orange">Online giá rẻ quá</p>
+        </a>
+    
+                    </div>
+                    <div class="item">
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/42/289663/s16/iphone-14-blue-1-2-650x650.png" class="lazyload" alt="iPhone 14 256GB" width=300 height=300>
+            </div>
+            <h3>iPhone 14 256GB</h3>
+                        <span class="box-price">
+                            19.990.000&#x20AB;
+                            <strike>22.990.000&#x20AB;</strike>
+                                <small>-13%</small>
+                        </span>
+                <p class="item-txt-online orange">Online giá rẻ quá</p>
+        </a>
+    
+                    </div>
+                    <div class="item">
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/42/289691/s16/iphone-14-pro-purple-1-650x650.png" class="lazyload" alt="iPhone 14 Pro 256GB" width=300 height=300>
+            </div>
+            <h3>iPhone 14 Pro 256GB</h3>
+                        <span class="box-price">
+                            27.490.000&#x20AB;
+                            <strike>29.490.000&#x20AB;</strike>
+                                <small>-6%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item">
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/42/289700/s16/iphone-14-pro-max-purple-650x650.png" class="lazyload" alt="iPhone 14 Pro Max 256GB" width=300 height=300>
+            </div>
+            <h3>iPhone 14 Pro Max 256GB</h3>
+                        <span class="box-price">
+                            28.590.000&#x20AB;
+                            <strike>31.890.000&#x20AB;</strike>
+                                <small>-10%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/42/289702/s16/iphone-14-pro-max-purple-650x650.png" class="lazyload" alt="iPhone 14 Pro Max 512GB" width=300 height=300>
+            </div>
+            <h3>iPhone 14 Pro Max 512GB</h3>
+                        <span class="box-price">
+                            35.990.000&#x20AB;
+                            <strike>37.990.000&#x20AB;</strike>
+                                <small>-5%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item">
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/42/289710/s16/iphone-14-plus-blue-1-2-650x650.png" class="lazyload" alt="iPhone 14 Plus 256GB" width=300 height=300>
+            </div>
+            <h3>iPhone 14 Plus 256GB</h3>
+                        <span class="box-price">
+                            22.990.000&#x20AB;
+                            <strike>25.690.000&#x20AB;</strike>
+                                <small>-10%</small>
+                        </span>
+        </a>
+    
+                    </div>
+            </div>
+        </div>
+    
+    
+                        <div class="box-slide">
+            <a href="#" class="logo-cate  ">
+                        <i class="topzone-iconapple"></i>
+                        <h2 class="title-text">Mac</h2>
+            </a>
+            <div class="slide-cate owl-carousel owl-theme" >
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label >Mới</label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/44/322612/s16/macbook-air-15-inch-m3-2024-xam-1-650x650.png" class="lazyload" alt="MacBook Air 13 inch M3 8GB/256GB" width=300 height=300>
+            </div>
+            <h3>MacBook Air 13 inch M3 8GB/256GB</h3>
+                        <span class="box-price">
+                            27.290.000&#x20AB;
+                            <strike>27.990.000&#x20AB;</strike>
+                        </span>
+                <p class="item-txt-online orange">Online giá rẻ quá</p>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label >Mới</label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/44/322616/s16/macbook-air-15-inch-m3-2024-xam-650x650.png" class="lazyload" alt="MacBook Air 15 inch M3 8GB/256GB" width=300 height=300>
+            </div>
+            <h3>MacBook Air 15 inch M3 8GB/256GB</h3>
+                        <span class="box-price">
+                            31.490.000&#x20AB;
+                            <strike>32.990.000&#x20AB;</strike>
+                        </span>
+                <p class="item-txt-online orange">Online giá rẻ quá</p>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/44/231244/s16/mac-air-m1-13-xam-new-650x650.png" class="lazyload" alt="MacBook Air 13 inch M1 8GB/256GB" width=300 height=300>
+            </div>
+            <h3>MacBook Air 13 inch M1 8GB/256GB</h3>
+                        <span class="box-price">
+                            18.490.000&#x20AB;
+                            <strike>19.590.000&#x20AB;</strike>
+                                <small>-5%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/44/282827/s16/mac-air-m2-13-xanh-new-650x650.png" class="lazyload" alt="MacBook Air 13 inch M2 8GB/256GB" width=300 height=300>
+            </div>
+            <h3>MacBook Air 13 inch M2 8GB/256GB</h3>
+                        <span class="box-price">
+                            24.090.000&#x20AB;
+                            <strike>27.090.000&#x20AB;</strike>
+                                <small>-11%</small>
+                        </span>
+                <p class="item-txt-online orange">Online giá rẻ quá</p>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/44/309016/s16/mac-air-15-xam-new-650x650.png" class="lazyload" alt="MacBook Air 15 inch M2 8GB/256GB S&#x1EA1;c 35W" width=300 height=300>
+            </div>
+            <h3>MacBook Air 15 inch M2 8GB/256GB Sạc 35W</h3>
+                        <span class="box-price">
+                            27.590.000&#x20AB;
+                            <strike>32.290.000&#x20AB;</strike>
+                                <small>-14%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item">
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/44/318228/s16/mac-topzone-spacegray-650x650.png" class="lazyload" alt="MacBook Pro 14 inch M3 8GB/512GB" width=300 height=300>
+            </div>
+            <h3>MacBook Pro 14 inch M3 8GB/512GB</h3>
+                        <span class="box-price">
+                            38.490.000&#x20AB;
+                            <strike>39.990.000&#x20AB;</strike>
+                        </span>
+                <p class="item-txt-online orange">Online giá rẻ quá</p>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/44/318230/s16/mac-topzone-promax-black-650x650.png" class="lazyload" alt="MacBook Pro 14 inch M3 Pro 18GB/512GB" width=300 height=300>
+            </div>
+            <h3>MacBook Pro 14 inch M3 Pro 18GB/512GB</h3>
+                        <span class="box-price">
+                            49.490.000&#x20AB;
+                            <strike>49.990.000&#x20AB;</strike>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/5698/318238/s16/imac-m3-blue-thumb-650x650.png" class="lazyload" alt="iMac 24 inch M3 8GB/256GB" width=300 height=300>
+            </div>
+            <h3>iMac 24 inch M3 8GB/256GB</h3>
+                        <span class="box-price">
+                            35.490.000&#x20AB;
+                            <strike>36.990.000&#x20AB;</strike>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item">
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/44/282847/s16/mac-air-m2-13-xanh-new-650x650.png" class="lazyload" alt="MacBook Air 13 inch M2 2022 8CPU/8GB/512GB/10GPU" width=300 height=300>
+            </div>
+            <h3>MacBook Air 13 inch M2 2022 8CPU/8GB/512GB/10GPU</h3>
+                        <span class="box-price">
+                            29.590.000&#x20AB;
+                            <strike>29.990.000&#x20AB;</strike>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item">
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/44/289441/s16/mac-air-m2-13-vang-new-650x650.png" class="lazyload" alt="MacBook Air 13 inch M2 16GB/512GB/10GPU" width=300 height=300>
+            </div>
+            <h3>MacBook Air 13 inch M2 16GB/512GB/10GPU</h3>
+                        <span class="box-price">
+                            33.690.000&#x20AB;
+                            <strike>39.190.000&#x20AB;</strike>
+                                <small>-14%</small>
+                        </span>
+                <p class="item-txt-online orange">Online giá rẻ quá</p>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/44/289472/s16/mac-air-m2-13-xanh-new-650x650.png" class="lazyload" alt="MacBook Air 13 inch M2 16GB/256GB/8GPU" width=300 height=300>
+            </div>
+            <h3>MacBook Air 13 inch M2 16GB/256GB/8GPU</h3>
+                        <span class="box-price">
+                            29.690.000&#x20AB;
+                            <strike>31.990.000&#x20AB;</strike>
+                                <small>-7%</small>
+                        </span>
+                <p class="item-txt-online orange">Online giá rẻ quá</p>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/5698/302152/s16/mac-mini-m2-2023-thumbtz-650x650.png" class="lazyload" alt="Mac mini M2 2023 8CPU/8GB/256GB/10GPU" width=300 height=300>
+            </div>
+            <h3>Mac mini M2 2023 8CPU/8GB/256GB/10GPU</h3>
+                        <span class="box-price">
+                            14.690.000&#x20AB;
+                            <strike>14.990.000&#x20AB;</strike>
+                        </span>
+                <p class="item-txt-online orange">Online giá rẻ quá</p>
+        </a>
+    
+                    </div>
+                    <div class="item">
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/44/309017/s16/mac-air-15-midnight-new-650x650.png" class="lazyload" alt="MacBook Air 15 inch M2 8GB/512GB" width=300 height=300>
+            </div>
+            <h3>MacBook Air 15 inch M2 8GB/512GB</h3>
+                        <span class="box-price">
+                            32.990.000&#x20AB;
+                            <strike>37.990.000&#x20AB;</strike>
+                                <small>-13%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/44/309018/s16/mac-air-15-xam-650x650.png" class="lazyload" alt="MacBook Air 15 inch M2 16GB/256GB" width=300 height=300>
+            </div>
+            <h3>MacBook Air 15 inch M2 16GB/256GB</h3>
+                        <span class="box-price">
+                            35.990.000&#x20AB;
+                            <strike>37.990.000&#x20AB;</strike>
+                                <small>-5%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/5698/309281/s16/mac-studio-m2-max-2023-150623-105154-650x650.png" class="lazyload" alt="Mac Studio M2 Max 2023 12CPU/32GB/512GB/30GPU" width=300 height=300>
+            </div>
+            <h3>Mac Studio M2 Max 2023 12CPU/32GB/512GB/30GPU</h3>
+                    <strong class="price">58.990.000&#x20AB;</strong>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/44/318231/s16/apple-macbook-pro-14-inch-m3-pro-2023-12-core-311023-044515-650x650.png" class="lazyload" alt="MacBook Pro 14 inch M3 Pro 18GB/1TB" width=300 height=300>
+            </div>
+            <h3>MacBook Pro 14 inch M3 Pro 18GB/1TB</h3>
+                    <strong class="price">54.990.000&#x20AB;</strong>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/44/318232/s16/mac-topzone-promax-silver-650x650.png" class="lazyload" alt="MacBook Pro 14 inch M3 Max 36GB/1TB" width=300 height=300>
+            </div>
+            <h3>MacBook Pro 14 inch M3 Max 36GB/1TB</h3>
+                        <span class="box-price">
+                            78.990.000&#x20AB;
+                            <strike>79.990.000&#x20AB;</strike>
+                        </span>
+                <p class="item-txt-online orange">Online giá rẻ quá</p>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/44/318233/s16/mac16-topzone-black-650x650.png" class="lazyload" alt="MacBook Pro 16 inch M3 Pro 18GB/512GB" width=300 height=300>
+            </div>
+            <h3>MacBook Pro 16 inch M3 Pro 18GB/512GB</h3>
+                        <span class="box-price">
+                            62.990.000&#x20AB;
+                            <strike>64.990.000&#x20AB;</strike>
+                        </span>
+                <p class="item-txt-online orange">Online giá rẻ quá</p>
+        </a>
+    
+                    </div>
+                    <div class="item">
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/44/318235/s16/apple-macbook-pro-16-inch-m3-pro-2023-12-core-36gb-311023-045256-650x650.png" class="lazyload" alt="MacBook Pro 16 inch M3 Pro 36GB/512GB" width=300 height=300>
+            </div>
+            <h3>MacBook Pro 16 inch M3 Pro 36GB/512GB</h3>
+                        <span class="box-price">
+                            72.990.000&#x20AB;
+                            <strike>74.990.000&#x20AB;</strike>
+                        </span>
+                <p class="item-txt-online orange">Online giá rẻ quá</p>
+        </a>
+    
+                    </div>
+                    <div class="item">
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/44/318236/s16/mac16-topzone-silver-650x650.png" class="lazyload" alt="MacBook Pro 16 inch M3 Max 36GB/1TB" width=300 height=300>
+            </div>
+            <h3>MacBook Pro 16 inch M3 Max 36GB/1TB</h3>
+                        <span class="box-price">
+                            87.990.000&#x20AB;
+                            <strike>89.990.000&#x20AB;</strike>
+                        </span>
+                <p class="item-txt-online orange">Online giá rẻ quá</p>
+        </a>
+    
+                    </div>
+            </div>
+        </div>
+    
+    
+                        <div class="box-slide">
+            <a href="#" class="logo-cate  ">
+                        <i class="topzone-iconapple"></i>
+                        <h2 class="title-text">iPad</h2>
+            </a>
+            <div class="slide-cate owl-carousel owl-theme" >
+                    <div class="item">
+                        
+        <a href="#" class="main-contain">
+            <label >Mới</label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/522/325501/s16/ipad-air-m2-11-inch-wifi-gray-650x650.png" class="lazyload" alt="iPad Air 6 M2 11 inch WiFi 128GB" width=300 height=300>
+            </div>
+            <h3>iPad Air 6 M2 11 inch WiFi 128GB</h3>
+                    <strong class="price">16.990.000&#x20AB;</strong>
+                <p class="item-txt-online ">Hàng sắp về</p>
+        </a>
+    
+                    </div>
+                    <div class="item">
+                        
+        <a href="#" class="main-contain" >
+            <label >M&#x1EDB;i</label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/522/325513/s16/ipad-pro-11-inch-wifi-black-thumb-650x650.png" class="lazyload" alt="iPad Pro M4 11 inch WiFi 256GB" width=300 height=300>
+            </div>
+            <h3>iPad Pro M4 11 inch WiFi 256GB</h3>
+                    <strong class="price">28.990.000&#x20AB;</strong>
+                <p class="item-txt-online ">Hàng sắp về</p>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain">
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/522/247517/s16/ipad-9-grey-650x650.png" class="lazyload" alt="iPad 9 WiFi 64GB" width=300 height=300>
+            </div>
+            <h3>iPad 9 WiFi 64GB</h3>
+                        <span class="box-price">
+                            7.090.000&#x20AB;
+                            <strike>8.390.000&#x20AB;</strike>
+                                <small>-15%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/522/294103/s16/iPad-gen-10-sliver-1-650x650.png" class="lazyload" alt="iPad 10 WiFi 64GB" width=300 height=300>
+            </div>
+            <h3>iPad 10 WiFi 64GB</h3>
+                        <span class="box-price">
+                            10.590.000&#x20AB;
+                            <strike>11.490.000&#x20AB;</strike>
+                                <small>-7%</small>
+                        </span>
+                <p class="item-txt-online orange">Online giá rẻ quá</p>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label >Mới</label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/522/325506/s16/ipad-air-m2-13-inch-wifi-gray-thumb-650x650.png" class="lazyload" alt="iPad Air 6 M2 13 inch WiFi 128GB" width=300 height=300>
+            </div>
+            <h3>iPad Air 6 M2 13 inch WiFi 128GB</h3>
+                    <strong class="price">22.490.000&#x20AB;</strong>
+                <p class="item-txt-online ">Hàng sắp về</p>
+        </a>
+    
+                    </div>
+                    <div class="item">
+                        
+        <a href="#" class="main-contain" >
+            <label >Mới</label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/522/325517/s16/ipad-pro-13-inch-wifi-silver-650x650.png" class="lazyload" alt="iPad Pro M4 13 inch WiFi 256GB" width=300 height=300>
+            </div>
+            <h3>iPad Pro M4 13 inch WiFi 256GB</h3>
+                    <strong class="price">37.990.000&#x20AB;</strong>
+                <p class="item-txt-online ">Hàng sắp về</p>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/522/248096/s16/ipad-air-5-wifi-startlight-1-650x650.png" class="lazyload" alt="iPad Air 5 WiFi 64GB" width=300 height=300>
+            </div>
+            <h3>iPad Air 5 WiFi 64GB</h3>
+                        <span class="box-price">
+                            14.090.000&#x20AB;
+                            <strike>15.590.000&#x20AB;</strike>
+                                <small>-9%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/522/294104/s16/ipad-pro-m2-11inch-sliver-1-650x650.png" class="lazyload" alt="iPad Pro M2 11 inch WiFi 128GB" width=300 height=300>
+            </div>
+            <h3>iPad Pro M2 11 inch WiFi 128GB</h3>
+                    <strong class="price">21.790.000&#x20AB;</strong>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/522/294105/s16/ipad-pro-m2-129-inch-grey-1-2-650x650.png" class="lazyload" alt="iPad Pro M2 12.9 inch WiFi 128GB" width=300 height=300>
+            </div>
+            <h3>iPad Pro M2 12.9 inch WiFi 128GB</h3>
+                        <span class="box-price">
+                            28.890.000&#x20AB;
+                            <strike>29.190.000&#x20AB;</strike>
+                                <small>-1%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/522/250734/s16/ipad-mini-6-lte-grey-thumb-650x650.png" class="lazyload" alt="iPad mini 6 5G 64GB" width=300 height=300>
+            </div>
+            <h3>iPad mini 6 5G 64GB</h3>
+                        <span class="box-price">
+                            16.090.000&#x20AB;
+                            <strike>16.690.000&#x20AB;</strike>
+                                <small>-3%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item">
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/522/237699/s16/ipad-pro-m1-129-inch-wifi-gray-650x650.png" class="lazyload" alt="iPad Pro M1 12.9 inch WiFi 128GB" width=300 height=300>
+            </div>
+            <h3>iPad Pro M1 12.9 inch WiFi 128GB</h3>
+                        <span class="box-price">
+                            25.490.000&#x20AB;
+                            <strike>30.990.000&#x20AB;</strike>
+                                <small>-17%</small>
+                        </span>
+                <p class="item-txt-online ">Tạm hết hàng</p>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/522/238624/s16/ipad-pro-m1-11-inch-cellular-wifi-gray-650x650.png" class="lazyload" alt="iPad Pro M1 11 inch 5G 128GB" width=300 height=300>
+            </div>
+            <h3>iPad Pro M1 11 inch 5G 128GB</h3>
+                        <span class="box-price">
+                            25.990.000&#x20AB;
+                            <strike>26.990.000&#x20AB;</strike>
+                                <small>-3%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item">
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/522/248091/s16/ipad-mini-6-startlight-1-650x650.png" class="lazyload" alt="iPad mini 6 WiFi 64GB" width=300 height=300>
+            </div>
+            <h3>iPad mini 6 WiFi 64GB</h3>
+                        <span class="box-price">
+                            12.890.000&#x20AB;
+                            <strike>13.290.000&#x20AB;</strike>
+                                <small>-3%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain">
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/522/250730/s16/ipad-9-sliver-650x650.png" class="lazyload" alt="iPad 9 WiFi 256GB" width=300 height=300>
+            </div>
+            <h3>iPad 9 WiFi 256GB</h3>
+                        <span class="box-price">
+                            10.790.000&#x20AB;
+                            <strike>12.290.000&#x20AB;</strike>
+                                <small>-12%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item">
+                        
+        <a href="#" class="main-contain">
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/522/250731/s16/ipad-9-lte-sliver-1-650x650.png" class="lazyload" alt="iPad 9 4G 64GB" width=300 height=300>
+            </div>
+            <h3>iPad 9 4G 64GB</h3>
+                        <span class="box-price">
+                            10.390.000&#x20AB;
+                            <strike>11.790.000&#x20AB;</strike>
+                                <small>-11%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/522/250732/s16/ipad-9-lte-grey-1-650x650.png" class="lazyload" alt="iPad 9 4G 256GB" width=300 height=300>
+            </div>
+            <h3>iPad 9 4G 256GB</h3>
+                        <span class="box-price">
+                            13.990.000&#x20AB;
+                            <strike>18.490.000&#x20AB;</strike>
+                                <small>-24%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/522/250733/s16/ipad-mini-6-startlight-1-650x650.png" class="lazyload" alt="iPad mini 6 WiFi 256GB" width=300 height=300>
+            </div>
+            <h3>iPad mini 6 WiFi 256GB</h3>
+                        <span class="box-price">
+                            16.390.000&#x20AB;
+                            <strike>16.690.000&#x20AB;</strike>
+                                <small>-1%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/522/274154/s16/ipad-air-5-purple-1-650x650.png" class="lazyload" alt="iPad Air 5 WiFi 256GB" width=300 height=300>
+            </div>
+            <h3>iPad Air 5 WiFi 256GB</h3>
+                        <span class="box-price">
+                            18.790.000&#x20AB;
+                            <strike>19.490.000&#x20AB;</strike>
+                                <small>-3%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/522/274155/s16/ipad-air-5-lte-blue-1-2-650x650.png" class="lazyload" alt="iPad Air 5 5G 64GB" width=300 height=300>
+            </div>
+            <h3>iPad Air 5 5G 64GB</h3>
+                        <span class="box-price">
+                            17.690.000&#x20AB;
+                            <strike>19.490.000&#x20AB;</strike>
+                                <small>-9%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/522/274156/s16/ipad-air-5-lte-purple-650x650.png" class="lazyload" alt="iPad Air 5 5G 256GB" width=300 height=300>
+            </div>
+            <h3>iPad Air 5 5G 256GB</h3>
+                        <span class="box-price">
+                            21.590.000&#x20AB;
+                            <strike>23.390.000&#x20AB;</strike>
+                                <small>-7%</small>
+                        </span>
+        </a>
+    
+                    </div>
+            </div>
+        </div>
+    
+    
+                        <div class="box-slide">
+            <a href="#" class="logo-cate  ">
+                        <i class="topzone-iconapple"></i>
+                        <h2 class="title-text">WATCH</h2>
+            </a>
+            <div class="slide-cate owl-carousel owl-theme" >
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/7077/314705/s16/apple-watch-s9-gps-41mm-vien-nhom-day-silicone-hong-tn-1-650x650.png" class="lazyload" alt="Apple Watch Series 9 GPS 41mm viền nhôm dây thể thao" width=300 height=300>
+            </div>
+            <h3>Apple Watch Series 9 GPS 41mm viền nhôm dây thể thao</h3>
+                        <span class="box-price">
+                            9.390.000&#x20AB;
+                            <strike>10.490.000&#x20AB;</strike>
+                                <small>-10%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/7077/314711/s16/apple-watch-ultra-2-lte-49mm-vien-titanium-day-alpine-size-m-xanh-oliu-thumb-650x650.png" class="lazyload" alt="Apple Watch Ultra 2 GPS + Cellular 49mm viền Titanium dây Alpine size M" width=300 height=300>
+            </div>
+            <h3>Apple Watch Ultra 2 GPS + Cellular 49mm viền Titanium dây Alpine size M</h3>
+                        <span class="box-price">
+                            21.190.000&#x20AB;
+                            <strike>21.990.000&#x20AB;</strike>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/7077/316007/s16/apple-watch-se-2023-vien-nhom-day-silicone-xanh-nhat-tb-2-1-1-650x650.png" class="lazyload" alt="Apple Watch SE 2023 GPS 40mm viền nhôm dây thể thao" width=300 height=300>
+            </div>
+            <h3>Apple Watch SE 2023 GPS 40mm viền nhôm dây thể thao</h3>
+                        <span class="box-price">
+                            5.990.000&#x20AB;
+                            <strike>6.390.000&#x20AB;</strike>
+                                <small>-6%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item">
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/7077/289801/s16/apple-watch-se-2022-lte-44mm-den-thumb-650x650.png" class="lazyload" alt="Apple Watch SE 2022 GPS + Cellular 44mm viền nhôm dây thể thao" width=300 height=300>
+            </div>
+            <h3>Apple Watch SE 2022 GPS + Cellular 44mm viền nhôm dây thể thao</h3>
+                        <span class="box-price">
+                            7.990.000&#x20AB;
+                            <strike>9.990.000&#x20AB;</strike>
+                                <small>-20%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item">
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/7077/314690/s16/apple-watch-s9-lte-41mm-vien-nhom-day-silicone-trang-starlight-thumb-1-650x650.png" class="lazyload" alt="Apple Watch Series 9 GPS + Cellular 41mm viền nhôm dây thể thao" width=300 height=300>
+            </div>
+            <h3>Apple Watch Series 9 GPS + Cellular 41mm viền nhôm dây thể thao</h3>
+                        <span class="box-price">
+                            12.390.000&#x20AB;
+                            <strike>13.090.000&#x20AB;</strike>
+                                <small>-5%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/7077/314691/s16/apple-watch-s9-lte-45mm-vien-nhom-day-silicone-trang-starlight-thumb-1-650x650.png" class="lazyload" alt="Apple Watch Series 9 GPS + Cellular 45mm viền nhôm dây thể thao" width=300 height=300>
+            </div>
+            <h3>Apple Watch Series 9 GPS + Cellular 45mm viền nhôm dây thể thao</h3>
+                        <span class="box-price">
+                            13.690.000&#x20AB;
+                            <strike>13.890.000&#x20AB;</strike>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain">
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/7077/314692/s16/apple-watch-s9-lte-41mm-vien-thep-khong-gi-day-silicone-bac-thumb-1-650x650.png" class="lazyload" alt="Apple Watch Series 9 GPS + Cellular 41mm viền thép dây thể thao" width=300 height=300>
+            </div>
+            <h3>Apple Watch Series 9 GPS + Cellular 41mm viền thép dây thể thao</h3>
+                    <strong class="price">18.990.000&#x20AB;</strong>
+                <p class="item-txt-online ">Chưa bán online</p>
+        </a>
+    
+                    </div>
+                    <div class="item">
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/7077/314696/s16/apple-watch-s9-lte-vien-thep-khong-gi-day-thep-1-1-650x650.png" class="lazyload" alt="Apple Watch Series 9 GPS + Cellular 41mm viền thép dây thép" width=300 height=300>
+            </div>
+            <h3>Apple Watch Series 9 GPS + Cellular 41mm viền thép dây thép</h3>
+                        <span class="box-price">
+                            18.890.000&#x20AB;
+                            <strike>20.290.000&#x20AB;</strike>
+                                <small>-6%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item">
+                        
+        <a href="#" class="main-contain">
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/7077/314701/s16/apple-watch-s9-lte-45mm-vien-thep-khong-gi-day-thep-den-thumb-650x650.png" class="lazyload" alt="Apple Watch Series 9 GPS + Cellular 45mm viền thép dây thép" width=300 height=300>
+            </div>
+            <h3>Apple Watch Series 9 GPS + Cellular 45mm viền thép dây thép</h3>
+                        <span class="box-price">
+                            19.890.000&#x20AB;
+                            <strike>21.590.000&#x20AB;</strike>
+                                <small>-7%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item">
+                        
+        <a href="#" class="main-contain">
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/7077/314708/s16/apple-watch-s9-45mm-vien-nhom-day-silicone-trang-thumb-650x650.png" class="lazyload" alt="Apple Watch Series 9 GPS 45mm viền nhôm dây thể thao" width=300 height=300>
+            </div>
+            <h3>Apple Watch Series 9 GPS 45mm viền nhôm dây thể thao</h3>
+                        <span class="box-price">
+                            10.790.000&#x20AB;
+                            <strike>11.290.000&#x20AB;</strike>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain">
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/7077/314710/s16/apple-watch-ultra-lte-49mm-vien-titanium-day-ocean-cam-tb-1-650x650.png" class="lazyload" alt="Apple Watch Ultra 2 GPS + Cellular 49mm viền Titanium dây Ocean" width=300 height=300>
+            </div>
+            <h3>Apple Watch Ultra 2 GPS + Cellular 49mm viền Titanium dây Ocean</h3>
+                        <span class="box-price">
+                            20.690.000&#x20AB;
+                            <strike>21.990.000&#x20AB;</strike>
+                                <small>-5%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item">
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/7077/314714/s16/apple-watch-ultra-lte-49mm-vien-titanium-day-trail-size-s-m-3-1-2-1-650x650.png" class="lazyload" alt="Apple Watch Ultra 2 GPS + Cellular 49mm viền Titanium dây Trail size M/L" width=300 height=300>
+            </div>
+            <h3>Apple Watch Ultra 2 GPS + Cellular 49mm viền Titanium dây Trail size M/L</h3>
+                        <span class="box-price">
+                            21.190.000&#x20AB;
+                            <strike>21.990.000&#x20AB;</strike>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item">
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/7077/314937/s16/apple-watch-ultra-lte-49mm-vien-titanium-day-alpine-size-l-nau-tb-1-650x650.png" class="lazyload" alt="Apple Watch Ultra 2 GPS + Cellular 49mm viền Titanium dây Alpine size L" width=300 height=300>
+            </div>
+            <h3>Apple Watch Ultra 2 GPS + Cellular 49mm viền Titanium dây Alpine size L</h3>
+                        <span class="box-price">
+                            21.190.000&#x20AB;
+                            <strike>21.990.000&#x20AB;</strike>
+                        </span>
+                    </a>
+    
+                    </div>
+                    <div class="item">
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/7077/314938/s16/apple-watch-ultra-2-lte-49mm-vien-titanium-day-alpine-size-s-xanh-duong-thumb-1-650x650.png" class="lazyload" alt="Apple Watch Ultra 2 GPS + Cellular 49mm viền Titanium dây Alpine size S" width=300 height=300>
+            </div>
+            <h3>Apple Watch Ultra 2 GPS + Cellular 49mm viền Titanium dây Alpine size S</h3>
+                        <span class="box-price">
+                            21.190.000&#x20AB;
+                            <strike>21.990.000&#x20AB;</strike>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/7077/315995/s16/apple-watch-s9-vien-nhom-day-vai-trang-tb-1-650x650.png" class="lazyload" alt="Apple Watch Series 9 GPS + Cellular 41mm viền nhôm dây vải" width=300 height=300>
+            </div>
+            <h3>Apple Watch Series 9 GPS + Cellular 41mm viền nhôm dây vải</h3>
+                        <span class="box-price">
+                            12.790.000&#x20AB;
+                            <strike>13.090.000&#x20AB;</strike>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/7077/315996/s16/apple-watch-series-9-gps-cellular-45mm-sport-loop-hong-thumb-650x650.png" class="lazyload" alt="Apple Watch Series 9 GPS + Cellular 45mm viền nhôm dây vải" width=300 height=300>
+            </div>
+            <h3>Apple Watch Series 9 GPS + Cellular 45mm viền nhôm dây vải</h3>
+                        <span class="box-price">
+                            13.590.000&#x20AB;
+                            <strike>13.890.000&#x20AB;</strike>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item">
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/7077/315997/s16/apple-watch-s9-vien-nhom-day-silicone-xanh-dam-tb-1-650x650.png" class="lazyload" alt="Apple Watch Series 9 GPS + Cellular 45mm viền nhôm dây thể thao size S/M" width=300 height=300>
+            </div>
+            <h3>Apple Watch Series 9 GPS + Cellular 45mm viền nhôm dây thể thao size S/M</h3>
+                        <span class="box-price">
+                            13.690.000&#x20AB;
+                            <strike>13.890.000&#x20AB;</strike>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/7077/315998/s16/apple-watch-s9-vien-nhom-day-vai-hong-tb-1-650x650.png" class="lazyload" alt="Apple Watch Series 9 GPS 41mm viền nhôm dây vải" width=300 height=300>
+            </div>
+            <h3>Apple Watch Series 9 GPS 41mm viền nhôm dây vải</h3>
+                        <span class="box-price">
+                            9.890.000&#x20AB;
+                            <strike>10.490.000&#x20AB;</strike>
+                                <small>-5%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item">
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/7077/316001/s16/apple-watch-series-9-gps-45mm-sport-loop-xanh-den-thumb-650x650.png" class="lazyload" alt="Apple Watch Series 9 GPS 45mm viền nhôm dây vải" width=300 height=300>
+            </div>
+            <h3>Apple Watch Series 9 GPS 45mm viền nhôm dây vải</h3>
+                        <span class="box-price">
+                            10.790.000&#x20AB;
+                            <strike>11.290.000&#x20AB;</strike>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/7077/316002/s16/apple-watch-s9-vien-nhom-day-silicone-xanh-den-tb-1-650x650.png" class="lazyload" alt="Apple Watch Series 9 GPS 45mm viền nhôm dây thể thao size S/M" width=300 height=300>
+            </div>
+            <h3>Apple Watch Series 9 GPS 45mm viền nhôm dây thể thao size S/M</h3>
+                        <span class="box-price">
+                            10.790.000&#x20AB;
+                            <strike>11.290.000&#x20AB;</strike>
+                        </span>
+        </a>
+    
+                    </div>
+            </div>
+        </div>
+    
+    
+                        <div class="box-slide">
+            <a href="#" class="logo-cate  ">
+                        <h2 class="title-text-amthanh">Tai nghe, Loa</h2>
+            </a>
+            <div class="slide-cate owl-carousel owl-theme" >
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/54/236016/s16/tai-nghe-bluetooth-airpods-2-apple-mv7n2-trang-thumb-110-650x650.png" class="lazyload" alt="AirPods 2 sạc Lightning" width=300 height=300>
+            </div>
+            <h3>AirPods 2 sạc Lightning</h3>
+                        <span class="box-price">
+                            2.690.000&#x20AB;
+                            <strike>3.490.000&#x20AB;</strike>
+                                <small>-22%</small>
+                        </span>
+                <p class="item-txt-online orange">Online giá rẻ quá</p>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/2162/242826/s16/bluetooth-jbl-go-3-xanh-xanh-tn-650x650.png" class="lazyload" alt="Loa Bluetooth JBL Go 3" width=300 height=300>
+            </div>
+            <h3>Loa Bluetooth JBL Go 3</h3>
+                        <span class="box-price">
+                            890.000&#x20AB;
+                            <strike>1.090.000&#x20AB;</strike>
+                                <small>-18%</small>
+                        </span>
+                <p class="item-txt-online orange">Online giá rẻ quá</p>
+        </a>
+    
+                    </div>
+                    <div class="item">
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/54/289781/s16/airpods-pro-2-thumb-650x650.png" class="lazyload" alt="AirPods Pro (2nd Gen) Lightning" width=300 height=300>
+            </div>
+            <h3>AirPods Pro (2nd Gen) Lightning</h3>
+                        <span class="box-price">
+                            5.390.000&#x20AB;
+                            <strike>6.190.000&#x20AB;</strike>
+                                <small>-12%</small>
+                        </span>
+                <p class="item-txt-online orange">Online giá rẻ quá</p>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/54/290053/s16/airpods-3-hop-sac-khong-day-thumb-650x650.png" class="lazyload" alt="AirPods 3 sạc Lightning" width=300 height=300>
+            </div>
+            <h3>AirPods 3 sạc Lightning</h3>
+                        <span class="box-price">
+                            3.990.000&#x20AB;
+                            <strike>4.490.000&#x20AB;</strike>
+                                <small>-11%</small>
+                        </span>
+                <p class="item-txt-online orange">Online giá rẻ quá</p>
+        </a>
+    
+                    </div>
+                    <div class="item">
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/54/315014/s16/tai-nghe-bluetooth-airpods-pro-2nd-gen-usb-c-charge-apple-thumb-12-1-650x650.png" class="lazyload" alt="AirPods Pro (2nd Gen) USB-C" width=300 height=300>
+            </div>
+            <h3>AirPods Pro (2nd Gen) USB-C</h3>
+                        <span class="box-price">
+                            5.590.000&#x20AB;
+                            <strike>6.200.000&#x20AB;</strike>
+                                <small>-9%</small>
+                        </span>
+                <p class="item-txt-online orange">Online giá rẻ quá</p>
+        </a>
+    
+                    </div>
+                    <div class="item">
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/54/236331/s16/bluetooth-airpods-max-apple-bac-tn-650x650.png" class="lazyload" alt="AirPods Max" width=300 height=300>
+            </div>
+            <h3>AirPods Max</h3>
+                        <span class="box-price">
+                            12.990.000&#x20AB;
+                            <strike>13.990.000&#x20AB;</strike>
+                                <small>-7%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item">
+                        
+        <a href="#" class="main-contain">
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/54/75430/s16/tai-nghe-sony-mdr-zx110ap-den-tn-650x650.png" class="lazyload" alt="Tai nghe chụp tai Sony MDR-ZX110AP" width=300 height=300>
+            </div>
+            <h3>Tai nghe chụp tai Sony MDR-ZX110AP</h3>
+                        <span class="box-price">
+                            430.000&#x20AB;
+                            <strike>540.000&#x20AB;</strike>
+                                <small>-20%</small>
+                        </span>
+                <p class="item-txt-online orange">Online giá rẻ quá</p>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/54/88053/s16/tai-nghe-earpods-cong-lightning-apple-mmtn2-tn-45-650x650.png" class="lazyload" alt="EarPods jack cắm Lightning" width=300 height=300>
+            </div>
+            <h3>EarPods jack cắm Lightning</h3>
+                    <strong class="price">550.000&#x20AB;</strong>
+        </a>
+    
+                    </div>
+                    <div class="item">
+                        
+        <a href="#" class="main-contain">
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/54/228488/s16/tai-nghe-chup-tai-beats-solo3-mx432-mv8t2-mx472-do-tn-650x650.png" class="lazyload" alt="Tai nghe không dây Beats Solo 3" width=300 height=300>
+            </div>
+            <h3>Tai nghe không dây Beats Solo 3</h3>
+                        <span class="box-price">
+                            3.790.000&#x20AB;
+                            <strike>5.490.000&#x20AB;</strike>
+                                <small>-30%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img data-src="https://cdn.tgdd.vn/Products/Images/2162/242835/s16/bluetooth-harman-kardon-soundsticks-4-trang-tn-650x650.png" class="lazyload" alt="Loa Bluetooth Harman Kardon SoundSticks 4" width=300 height=300>
+            </div>
+            <h3>Loa Bluetooth Harman Kardon SoundSticks 4</h3>
+                        <span class="box-price">
+                            6.990.000&#x20AB;
+                            <strike>7.990.000&#x20AB;</strike>
+                                <small>-12%</small>
+                        </span>
+                <p class="item-txt-online orange">Online giá rẻ quá</p>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain">
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/2162/251230/s16/bluetooth-jbl-charge-5-xanh-tn-650x650.png" class="lazyload" alt="Loa Bluetooth JBL Charge 5" width=300 height=300>
+            </div>
+            <h3>Loa Bluetooth JBL Charge 5</h3>
+                        <span class="box-price">
+                            3.490.000&#x20AB;
+                            <strike>3.990.000&#x20AB;</strike>
+                                <small>-12%</small>
+                        </span>
+                <p class="item-txt-online orange">Online giá rẻ quá</p>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain">
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img data-src="https://cdn.tgdd.vn/Products/Images/54/272013/s16/tai-nghe-bluetooth-true-wireless-sony-wf-c500-den-thumb-650x650.png" class="lazyload" alt="Tai nghe Bluetooth True Wireless Sony WF-C500" width=300 height=300>
+            </div>
+            <h3>Tai nghe Bluetooth True Wireless Sony WF-C500</h3>
+                        <span class="box-price">
+                            1.590.000&#x20AB;
+                            <strike>2.290.000&#x20AB;</strike>
+                                <small>-30%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/2162/286271/s16/loa-bluetooth-jbl-flip-6-xanh-tn-650x650.png" class="lazyload" alt="Loa Bluetooth JBL Flip 6" width=300 height=300>
+            </div>
+            <h3>Loa Bluetooth JBL Flip 6</h3>
+                        <span class="box-price">
+                            2.590.000&#x20AB;
+                            <strike>2.990.000&#x20AB;</strike>
+                                <small>-13%</small>
+                        </span>
+                <p class="item-txt-online orange">Online giá rẻ quá</p>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/2162/293654/s16/loa-bluetooth-harman-kardon-onyx-studio-8-xanh-duong-tn-650x650.png" class="lazyload" alt="Loa Bluetooth Harman Kardon Onyx Studio 8" width=300 height=300>
+            </div>
+            <h3>Loa Bluetooth Harman Kardon Onyx Studio 8</h3>
+                        <span class="box-price">
+                            5.990.000&#x20AB;
+                            <strike>6.990.000&#x20AB;</strike>
+                                <small>-14%</small>
+                        </span>
+                <p class="item-txt-online orange">Online giá rẻ quá</p>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img data-src="https://cdn.tgdd.vn/Products/Images/2162/299607/s16/loa-bluetooth-jbl-boombox-3-thumb-1-650x650.png" class="lazyload" alt="Loa Bluetooth JBL Boombox 3" width=300 height=300>
+            </div>
+            <h3>Loa Bluetooth JBL Boombox 3</h3>
+                        <span class="box-price">
+                            11.390.000&#x20AB;
+                            <strike>11.990.000&#x20AB;</strike>
+                                <small>-5%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img data-src="https://cdn.tgdd.vn/Products/Images/2162/299608/s16/loa-bluetooth-jbl-pulse-5-thumb-1-650x650.png" class="lazyload" alt="Loa Bluetooth JBL Pulse 5" width=300 height=300>
+            </div>
+            <h3>Loa Bluetooth JBL Pulse 5</h3>
+                        <span class="box-price">
+                            5.490.000&#x20AB;
+                            <strike>6.690.000&#x20AB;</strike>
+                                <small>-17%</small>
+                        </span>
+                <p class="item-txt-online orange">Online giá rẻ quá</p>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/2162/302671/s16/loa-bluetooth-monster-superstar-s320-thumb-650x650.png" class="lazyload" alt="Loa Bluetooth Monster Superstar S320" width=300 height=300>
+            </div>
+            <h3>Loa Bluetooth Monster Superstar S320</h3>
+                        <span class="box-price">
+                            1.490.000&#x20AB;
+                            <strike>1.900.000&#x20AB;</strike>
+                                <small>-21%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/2162/304563/s16/loa-bluetooth-klipsch-promedia-heritage-2-1-walnut-thumb-650x650.png" class="lazyload" alt="Loa Bluetooth Klipsch Promedia Heritage 2.1 Walnut" width=300 height=300>
+            </div>
+            <h3>Loa Bluetooth Klipsch Promedia Heritage 2.1 Walnut</h3>
+                        <span class="box-price">
+                            5.890.000&#x20AB;
+                            <strike>7.700.000&#x20AB;</strike>
+                                <small>-23%</small>
+                        </span>
+                <p class="item-txt-online orange">Online giá rẻ quá</p>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/2162/304565/s16/loa-bluetooth-jbl-authentics-a300-081223-070144-650x650.png" class="lazyload" alt="Loa Bluetooth JBL Authentics 300" width=300 height=300>
+            </div>
+            <h3>Loa Bluetooth JBL Authentics 300</h3>
+                        <span class="box-price">
+                            11.290.000&#x20AB;
+                            <strike>11.900.000&#x20AB;</strike>
+                                <small>-5%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/2162/304567/s16/loa-bluetooth-jbl-flip-6-trang-120923-013306-650x650.png" class="lazyload" alt="Loa Bluetooth JBL Flip 6" width=300 height=300>
+            </div>
+            <h3>Loa Bluetooth JBL Flip 6</h3>
+                        <span class="box-price">
+                            2.590.000&#x20AB;
+                            <strike>2.990.000&#x20AB;</strike>
+                                <small>-13%</small>
+                        </span>
+                <p class="item-txt-online orange">Online giá rẻ quá</p>
+        </a>
+    
+                    </div>
+            </div>
+        </div>
+    
+    
+                        <div class="box-slide">
+            <a href="#" class="logo-cate  ">
+                        <h2 class="title-text-phukien">Phụ kiện</h2>
+            </a>
+            <div class="slide-cate owl-carousel owl-theme" >
+                    <div class="item">
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/9499/230315/s16/adapter-sac-type-c-20w-cho-iphone-ipad-apple-mhje3-101021-023343-650x650.png" class="lazyload" alt="Adapter sạc Apple USB-C 20W" width=300 height=300>
+            </div>
+            <h3>Adapter sạc Apple USB-C 20W</h3>
+                        <span class="box-price">
+                            520.000&#x20AB;
+                            <strike>550.000&#x20AB;</strike>
+                                <small>-5%</small>
+                        </span>
+                <p class="item-txt-online orange">Online giá rẻ quá</p>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/60/315058/s16/op-lung-magsafe-iphone-15-pro-max-nhua-trong-apple-mt233-thumb-650x650.png" class="lazyload" alt="Ốp lưng MagSafe cho iPhone 15 Pro Max Nhựa trong Apple" width=300 height=300>
+            </div>
+            <h3>Ốp lưng MagSafe cho iPhone 15 Pro Max Nhựa trong Apple</h3>
+                        <span class="box-price">
+                            1.080.000&#x20AB;
+                            <strike>1.430.000&#x20AB;</strike>
+                                <small>-24%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item">
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/57/253589/s16/pin-sac-du-phong-polymer-20000mah-pd-20w-powercore-essential-anker-a1287-120222-104620-650x650.png" class="lazyload" alt="Pin sạc dự phòng 20000mAh PD 20W Anker PowerCore Essential A1287" width=300 height=300>
+            </div>
+            <h3>Pin sạc dự phòng 20000mAh PD 20W Anker PowerCore Essential A1287</h3>
+                        <span class="box-price">
+                            1.280.000&#x20AB;
+                            <strike>1.600.000&#x20AB;</strike>
+                                <small>-20%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/60/315069/s16/op-lung-magsafe-iphone-15-pro-max-vai-tinh-det-apple-mt4w3-den-thumb-650x650.png" class="lazyload" alt="Ốp lưng Magsafe cho iPhone 15 Pro Max Vải tinh dệt Apple" width=300 height=300>
+            </div>
+            <h3>Ốp lưng Magsafe cho iPhone 15 Pro Max Vải tinh dệt Apple</h3>
+                        <span class="box-price">
+                            1.290.000&#x20AB;
+                            <strike>1.690.000&#x20AB;</strike>
+                                <small>-23%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/1882/251881/s16/magic-keyboard-thumb-650x650.png" class="lazyload" alt="Magic Keyboard" width=300 height=300>
+            </div>
+            <h3>Magic Keyboard</h3>
+                        <span class="box-price">
+                            2.590.000&#x20AB;
+                            <strike>3.190.000&#x20AB;</strike>
+                                <small>-18%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item">
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/58/259283/s16/cap-type-c-lightning-1m-apple-mm0a3-trang-thumb-650x650.png" class="lazyload" alt="Cáp sạc USB-C - Lightning 1m" width=300 height=300>
+            </div>
+            <h3>Cáp sạc USB-C - Lightning 1m</h3>
+                    <strong class="price">550.000&#x20AB;</strong>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/60/315064/s16/op-lung-magsafe-iphone-15-pro-max-silicone-apple-mt1q3-xanh-da-troi-(thumb)-650x650.png" class="lazyload" alt="Ốp lưng Magsafe cho iPhone 15 Pro Max Silicone Apple" width=300 height=300>
+            </div>
+            <h3>Ốp lưng Magsafe cho iPhone 15 Pro Max Silicone Apple</h3>
+                        <span class="box-price">
+                            1.080.000&#x20AB;
+                            <strike>1.430.000&#x20AB;</strike>
+                                <small>-24%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item">
+                        
+        <a href="" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/60/315044/s16/op-lung-magsafe-iphone-15-pro-nhua-trong-apple-mt223-thumb1.-650x650.png" class="lazyload" alt="Ốp lưng Magsafe cho iPhone 15 Pro Nhựa trong Apple" width=300 height=300>
+            </div>
+            <h3>Ốp lưng Magsafe cho iPhone 15 Pro Nhựa trong Apple</h3>
+                        <span class="box-price">
+                            1.080.000&#x20AB;
+                            <strike>1.430.000&#x20AB;</strike>
+                                <small>-24%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item">
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/58/232628/s16/1-650x650.png" class="lazyload" alt="Cáp USB - Lightning MFI Belkin CAA001 1m" width=300 height=300>
+            </div>
+            <h3>Cáp USB - Lightning MFI Belkin CAA001 1m</h3>
+                        <span class="box-price">
+                            245.000&#x20AB;
+                            <strike>350.000&#x20AB;</strike>
+                                <small>-30%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/1882/255340/s16/magic-keyboard-with-numeric-keypad-mq052-thumb-1-650x650.png" class="lazyload" alt="Magic Keyboard với phím số" width=300 height=300>
+            </div>
+            <h3>Magic Keyboard với phím số</h3>
+                        <span class="box-price">
+                            2.890.000&#x20AB;
+                            <strike>3.890.000&#x20AB;</strike>
+                                <small>-25%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/60/315057/s16/op-lung-magsafe-iphone-15-pro-vai-tinh-det-apple-mt4h3-xanh-dam-(thumb)-650x650.png" class="lazyload" alt="Ốp lưng Magsafe cho iPhone 15 Pro Vải Tinh Dệt Apple" width=300 height=300>
+            </div>
+            <h3>Ốp lưng Magsafe cho iPhone 15 Pro Vải Tinh Dệt Apple</h3>
+                        <span class="box-price">
+                            1.290.000&#x20AB;
+                            <strike>1.690.000&#x20AB;</strike>
+                                <small>-23%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/58/232639/s16/cap-type-c-type-c-1m-belkin-cab003-trang-thumb-650x650.png" class="lazyload" alt="Cáp Type C - Type C Belkin CAB003 1m" width=300 height=300>
+            </div>
+            <h3>Cáp Type C - Type C Belkin CAB003 1m</h3>
+                        <span class="box-price">
+                            225.000&#x20AB;
+                            <strike>325.000&#x20AB;</strike>
+                                <small>-30%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item">
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img data-src="https://cdn.tgdd.vn/Products/Images/86/251787/s16/1-650x650.png" class="lazyload" alt="Magic Mouse" width=300 height=300>
+            </div>
+            <h3>Magic Mouse</h3>
+                        <span class="box-price">
+                            1.590.000&#x20AB;
+                            <strike>2.490.000&#x20AB;</strike>
+                                <small>-36%</small>
+                        </span>
+                <p class="item-txt-online orange">Online giá rẻ quá</p>
+        </a>
+    
+                    </div>
+                    <div class="item">
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/60/315050/s16/op-lung-magsafe-iphone-15-pro-silicone-apple-mt1e3-cam-(thumb)-650x650.png" class="lazyload" alt="Ốp lưng Magsafe cho iPhone 15 Pro Silicone Apple" width=300 height=300>
+            </div>
+            <h3>Ốp lưng Magsafe cho iPhone 15 Pro Silicone Apple</h3>
+                        <span class="box-price">
+                            790.000&#x20AB;
+                            <strike>990.000&#x20AB;</strike>
+                                <small>-20%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/58/226171/s16/1-650x650.png" class="lazyload" alt="Cáp Type C - Lightning MFI Anker PowerLine+ II A8652 0.9m" width=300 height=300>
+            </div>
+            <h3>Cáp Type C - Lightning MFI Anker PowerLine+ II A8652 0.9m</h3>
+                        <span class="box-price">
+                            390.000&#x20AB;
+                            <strike>500.000&#x20AB;</strike>
+                                <small>-22%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item">
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/60/315030/s16/op-lung-magsafe-iphone-15-plus-nhua-trong-apple-mt213-thumb-650x650.png" class="lazyload" alt="Ốp lưng Magsafe cho iPhone 15 Plus Nhựa trong Apple" width=300 height=300>
+            </div>
+            <h3>Ốp lưng Magsafe cho iPhone 15 Plus Nhựa trong Apple</h3>
+                        <span class="box-price">
+                            1.080.000&#x20AB;
+                            <strike>1.430.000&#x20AB;</strike>
+                                <small>-24%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/9499/232644/s16/1-650x650.png" class="lazyload" alt="Adapter sạc Type C PD 20W Belkin WCA003" width=300 height=300>
+            </div>
+            <h3>Adapter sạc Type C PD 20W Belkin WCA003</h3>
+                        <span class="box-price">
+                            325.000&#x20AB;
+                            <strike>470.000&#x20AB;</strike>
+                                <small>-30%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/60/315041/s16/op-lung-magsafe-iphone-15-plus-vai-apple-mt473-thumb-650x650.png" class="lazyload" alt="Ốp lưng Magsafe cho iPhone 15 Plus Vải Tinh Dệt Apple" width=300 height=300>
+            </div>
+            <h3>Ốp lưng Magsafe cho iPhone 15 Plus Vải Tinh Dệt Apple</h3>
+                        <span class="box-price">
+                            790.000&#x20AB;
+                            <strike>990.000&#x20AB;</strike>
+                                <small>-20%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/60/315036/s16/op-lung-magsafe-iphone-15-plus-silicone-apple-mt133-thumb-650x650.png" class="lazyload" alt="Ốp lưng Magsafe cho iPhone 15 Plus Silicone Apple" width=300 height=300>
+            </div>
+            <h3>Ốp lưng Magsafe cho iPhone 15 Plus Silicone Apple</h3>
+                        <span class="box-price">
+                            1.080.000&#x20AB;
+                            <strike>1.430.000&#x20AB;</strike>
+                                <small>-24%</small>
+                        </span>
+        </a>
+    
+                    </div>
+                    <div class="item" >
+                        
+        <a href="#" class="main-contain" >
+            <label class=no-label></label>
+            <div class="img-slide">
+                    <img src="https://cdn.tgdd.vn/Products/Images/60/315015/s16/op-lung-magsafe-iphone-15-nhua-trong-apple-mt203-thumb-650x650.png" class="lazyload" alt="Ốp lưng Magsafe cho iPhone 15 Nhựa trong Apple" width=300 height=300>
+            </div>
+            <h3>Ốp lưng Magsafe cho iPhone 15 Nhựa trong Apple</h3>
+                        <span class="box-price">
+                            1.080.000&#x20AB;
+                            <strike>1.430.000&#x20AB;</strike>
+                                <small>-24%</small>
+                        </span>
+        </a>
+    
+                    </div>
+            </div>
+        </div>
+    
+                </div>
+    
+        <div class="box-slide">
+            <a href="#" class="logo-cate  "><h2>TekZone</h2></a>
+            <div class="slide-topnews owl-carousel owl-theme" >
+                    <div class="item">
+                        <a href="#">
+                            <div class="img-slide">
+                                <img src="https://cdn.tgdd.vn/News/Thumb/1565987/9-1200x675.jpg" alt="
+                                Telegram Web là gì? Cách đăng nhập Telegram Web để nhắn tin ngay trên trình duyệt mà không cần tải app" class="lazyload" width="376" height="150"> 
+                            </div>
+                            <h3>
+                                Telegram Web là gì? Cách đăng nhập Telegram Web để nhắn tin ngay trên trình duyệt mà không cần tải app</h3>
+                            <span class="timepost">2 giờ trước</span>
+                        </a>
+                    </div>
+                    <div class="item">
+                        <a href="#">
+                            <div class="img-slide">
+                                <img src="https://cdn.tgdd.vn/News/Thumb/1565984/9-1200x675.jpg" alt="Cách đổi tên trên Google Meet, tạo ấn tượng chuyên nghiệp với những người tham gia khác" class="lazyload" width="376" height="150"> 
+                            </div>
+                            <h3>Cách đổi tên trên Google Meet, tạo ấn tượng chuyên nghiệp với những người tham gia khác</h3>
+                            <span class="timepost">5 giờ trước</span>
+                        </a>
+                    </div>
+                    <div class="item">
+                        <a href="#">
+                            <div class="img-slide">
+                                <img src="https://cdn.tgdd.vn/News/Thumb/1565975/9-1200x675.jpg" alt="Cách dịch tin nhắn trên Zalo, dễ dàng kết nối và trò chuyện với bạn bè ở bất kỳ đâu trên thế giới" class="lazyload" width="376" height="150"> 
+                            </div>
+                            <h3>Cách dịch tin nhắn trên Zalo, dễ dàng kết nối và trò chuyện với bạn bè ở bất kỳ đâu trên thế giới</h3>
+                            <span class="timepost">20 giờ trước</span>
+                        </a>
+                    </div>
+                    <div class="item">
+                        <a href="#">
+                            <div class="img-slide">
+                                <img src="https://cdn.tgdd.vn/News/Thumb/1565972/9-1200x675.jpg" alt="Cách chèn ảnh dưới chữ trong PowerPoint, giúp bài thuyết trình chuyên nghiệp và thu hút hơn" width="376" height="150"> 
+                            </div>
+                            <h3>Cách chèn ảnh dưới chữ trong PowerPoint, giúp bài thuyết trình chuyên nghiệp và thu hút hơn</h3>
+                            <span class="timepost">23 giờ trước</span>
+                        </a>
+                    </div>
+                    <div class="item">
+                        <a href="#">
+                            <div class="img-slide">
+                                <img src="https://cdn.tgdd.vn/News/Thumb/1565959/9-1200x675.jpg" alt="Cách bật chế độ tối trên Threads, mang lại trải nghiệm sử dụng thoải mái hơn, đặc biệt vào ban đêm" width="376" height="150"> 
+                            </div>
+                            <h3>Cách bật chế độ tối trên Threads, mang lại trải nghiệm sử dụng thoải mái hơn, đặc biệt vào ban đêm</h3>
+                            <span class="timepost">1 ngày trước</span>
+                        </a>
+                    </div>
+                    <div class="item">
+                        <a href="#">
+                            <div class="img-slide">
+                                <img src="https://cdn.tgdd.vn/News/Thumb/1565942/9-1200x675.jpg" alt="Cách đánh dấu chấm hàng nghìn trong Excel, biến những con số dài trở nên dễ đọc hơn bao giờ hết" class="lazyload" width="376" height="150"> 
+                            </div>
+                            <h3> Cách đánh dấu chấm hàng nghìn trong Excel, biến những con số dài trở nên dễ đọc hơn bao giờ hết</h3>
+                            <span class="timepost">1 ngày trước</span>
+                        </a>
+                    </div>
+                    <div class="item">
+                        <a href="#">
+                            <div class="img-slide">
+                                <img src="https://cdn.tgdd.vn/News/Thumb/1566022/9-1200x675.jpg" alt="Code Ngọc Rồng Huyền Thoại tháng 05/2024: Nhận Tiền Z, Kim cương, Nước thánh, Rương thưởng,..." class="lazyload" width="376" height="150"> 
+                            </div>
+                            <h3>Code Ngọc Rồng Huyền Thoại tháng 05/2024: Nhận Tiền Z, Kim cương, Nước thánh, Rương thưởng,...</h3>
+                            <span class="timepost">1 ngày trước</span>
+                        </a>
+                    </div>
+                    <div class="item">
+                        <a href="#">
+                            <div class="img-slide">
+                                <img data-src="https://cdn.tgdd.vn/News/Thumb/1566028/9-1200x675.jpg" alt="3 cách xem biến động số dư VietinBank, theo dõi chi tiêu, quản lý tài chính nhanh chóng và hiệu quả" class="lazyload" width="376" height="150"> 
+                            </div>
+                            <h3>3 cách xem biến động số dư VietinBank, theo dõi chi tiêu, quản lý tài chính nhanh chóng và hiệu quả</h3>
+                            <span class="timepost">2 ngày trước</span>
+                        </a>
+                    </div>
+                    <div class="item">
+                        <a href="#">
+                            <div class="img-slide">
+                                <img data-src="https://cdn.tgdd.vn/News/Thumb/1566055/12-1200x675.jpg" alt="So sánh iPad Pro M4 và iPad Pro M2, phiên bản nào phù hợp với bạn? Xem để có quyết định sáng suốt" class="lazyload" width="376" height="150"> 
+                            </div>
+                            <h3>So sánh iPad Pro M4 và iPad Pro M2, phiên bản nào phù hợp với bạn? Xem để có quyết định sáng suốt</h3>
+                            <span class="timepost">2 ngày trước</span>
+                        </a>
+                    </div>
+            </div>
+        </div>
+            </div>
+    
+            <div class="intro-topzone">
+        <div class="video-topzone">
+            <div class="warpper-video">
+                <video width="854" controls muted loop playsinline>
+                    <source src="../img/Gt-Topzone.mp4" type="video/mp4">
+                </video>
+                <div class="gradient-bg"></div>
+                <img class="logov-topzone" src="https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100,s_570x207/https://cdn.tgdd.vn/mwgcart/topzone/images/logo-video.png?v=4">
+            </div>
+        </div>
+        <p>
+            Tại TopZone, khách hàng yêu mến hệ sinh thái Apple sẽ tìm thấy đầy đủ và đa dạng nhất các sản phẩm như iPhone, iPad, Apple Watch, MacBook và các phụ kiện Apple... với không gian mua sắm đẳng cấp, hiện đại.
+        </p>
+        <a href="/gioi-thieu" target="_blank">Đọc thêm</a>
+    </div>
+    
+            
+    
+                <div class="list-sieuthi">
+            <div class="center-page">
+                <div class="store-province">
+                    <b>Mở bán tại 96 cửa hàng</b>
+                    <div>
+                        <span>Chọn tỉnh thành</span>
+                        <ul>
+                                <li data-province="3">Hồ Chí Minh</li>
+                                <li data-province="5">Hà Nội</li>
+                                <li data-province="9">Đà Nẵng</li>
+                                <li data-province="82">An Giang</li>
+                                <li data-province="102">Bà Rịa - Vũng Tàu</li>
+                                <li data-province="106">Bắc Ninh</li>
+                                <li data-province="107">Bến Tre</li>
+                                <li data-province="108">Bình Định</li>
+                                <li data-province="109">Bình Dương</li>
+                                <li data-province="110">Bình Phước</li>
+                                <li data-province="111">Bình Thuận</li>
+                                <li data-province="81">Cà Mau</li>
+                                <li data-province="7">Cần Thơ</li>
+                                <li data-province="6">Đăk Lăk</li>
+                                <li data-province="114">Điện Biên</li>
+                                <li data-province="8">Đồng Nai</li>
+                                <li data-province="116">Gia Lai</li>
+                                <li data-province="120">Hà Tĩnh</li>
+                                <li data-province="101">Hải Phòng</li>
+                                <li data-province="122">Hậuu Giang</li>
+                                <li data-province="124">Hưng Yên</li>
+                                <li data-province="125">Khánh Hòa</li>
+                                <li data-province="126">Kiên Giang</li>
+                                <li data-province="129">Lâm Đồnng</li>
+                                <li data-province="131">Lào Cai</li>
+                                <li data-province="132">Long An</li>
+                                <li data-province="133">Nam Định</li>
+                                <li data-province="134">Nghệ An</li>
+                                <li data-province="136">Ninh Thuận</li>
+                                <li data-province="140">Quảng Nam</li>
+                                <li data-province="142">Quảng Ninh</li>
+                                <li data-province="143">Quảng Trị</li>
+                                <li data-province="146">Tây Ninh</li>
+                                <li data-province="148">Tháii Nguyên</li>
+                                <li data-province="149">Thanh Hóa</li>
+                                <li data-province="151">Tiền Giang</li>
+                                <li data-province="154">Vĩnh Long</li>
+                                <li data-province="155">Vĩnh Phúc</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="store-list">
+                        <p class="p114 ">
+                            <a href="#">
+                                <span>TopZone Tân Thanh <span>Xem chỉ đường</span></span>
+                                <span>Số nhà 583, Tổ  dân phố 10, Phường Tân Thanh, Thànnh phố Điện Biên Phủ, Tỉnh Điện Biên, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p131 ">
+                            <a href="#">
+                                <span>TopZone Lý Công Uẩn <span>Xem chỉ đường</span></span>
+                                <span>Ngã 6 phố Lý Công Uẩn, Phườnng Kim Tuấn, Thành phố Lào Cai, Tỉnh Lào Cai, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p126 ">
+                            <a href="#">
+                                <span>TopZone Nguyễn Trung Trực <span>Xem chỉ đường</span></span>
+                                <span>Số 142A-142B đường Nguyễn Trung Trực, Thị Trấn Dương Đông, Huyện Phú Quốc, Tỉnh Kiên Giang, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p155 ">
+                            <a href="#">
+                                <span>TopZone Khai Quang <span>Xem chỉ đường</span></span>
+                                <span>TopZone Khai Quang Xem chỉ đườngĐường Nguyễn Tất Thành, Phường Khai Quang, Thành phố Vĩnh Yên, Tỉnh Vĩnh Phúc, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p5 ">
+                            <a href="#">
+                                <span>TopZone Xuân Mai <span>Xem chỉ đường</span></span>
+                                <span>Số 34, tổ 2, Khu Xuân Hà, Thị Trấn Xuân Mai, Huyện Chương Mỹ, Thành phố Hà Nội, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p155 ">
+                            <a href="#">
+                                <span>TopZone 286 Hai Bà Trưng <span>Xem chỉ đường</span></span>
+                                <span>TopZone 286 Hai Bà Trưng Xem chỉ đườngSố nhà 286, Đường Hai Bà Trưng, Phường Hùng Vương, Thành phố Phúc Yên ,Tỉnh Vĩnh Phúc, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p5 hide">
+                            <a href="#">
+                                <span>TopZone Cầu Diễn <span>Xem chỉ đường</span></span>
+                                <span>đườngSố 193-195 đường Cầu Diễn, Phường Phúc Diễn, Quận Bắc Từ Liêm, Thành phố Hà Nội, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p148 hide">
+                            <a href="#">
+                                <span>TopZone Lương Ngọc Quyến<span>Xem chỉ đường</span></span>
+                                <span>TopZone Lương Ngọc Quyến Xem chỉ đườngSố 477, đường Lương Ngọc Quyến , Phường Phan Đình Phùng, Thành phố Thái Nguyên, Tỉnh Thái Nguyên, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p5 hide">
+                            <a href="#">
+                                <span>TopZone Nguyễn Trãi <span>Xem chỉ đường</span></span>
+                                <span>Số 238, đường Nguyễn Trãi, Phường Trung Văn, Quận Nam Từ Liêm, Thành phố Hà Nội, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p5 hide">
+                            <a href="#">
+                                <span>TopZone Xã Đàn <span>Xem chỉ đường</span></span>
+                                <span>Số 498, đường Xã Đàn, Phường Nam Đồng, Quận Đống Đa, Thành phố Hà Nội, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p5 hide">
+                            <a href="#">
+                                <span>TopZone 389 Ngọc Hồi <span>Xem chỉ đường</span></span>
+                                <span>TopZone 389 Ngọc Hồi Xem chỉ đườngSố 387 - 389 - 391, đường Ngọc Hồi, Thị Trấn Văn Điền, Huyện Thanh Trì, Thành phố Hà Nội, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p149 hide">
+                            <a href="#">
+                                <span>TopZone Đại Lộ Lê Lợi <span>Xem chỉ đường</span></span>
+                                <span>Đường Đại lộ Lê Lợi, Phường Phú Sơn, Thành phố Thanh Hóa, Tỉnh Thanh Hóa, Việt Nam</span>
+                            </a>
+                        </p>
+                        <p class="p5 hide">
+                            <a href="#">
+                                <span>TopZone Yên Viên <span>Xem chỉ đường</span></span>
+                                <span>Thôn Lã Côi, Xã Yên Viên, Huyện Gia Lâm, Thành phố Hà Nội, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p134 hide">
+                            <a href="#">
+                                <span>TopZone Quang Trung <span>Xem chỉ đường</span></span>
+                                <span>Số 7, đường Quang Trung, Phường Quang Trung, Thành phố Vinh, Tỉnh Nghệ An, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p82 hide">
+                            <a href="#">
+                                <span>TopZone Nguyễn Văn Thoại<span>Xem chỉ đường</span></span>
+                                <span>Số 7, đường Quang Trung, Phường Quang Trung, Thành phố Vinh, Tỉnh Nghệ An, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p81 hide">
+                            <a href="#">
+                                <span>TopZone 52 Nguyễn Trãi  <span>Xem chỉ đường</span></span>
+                                <span>Số 52, Nguyễn Trãi, Phường 9, Thành phố Cà Mau, Tỉnh Cà Mau, Việt Nam</span>
+                                <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p81 hide">
+                            <a href="#">
+                                <span>TopZone 2A Trần Hưng Đạo <span>Xem chỉ đường</span></span>
+                                <span>Số 2A. đường Trần Hưng Đạo, khóm 6, Phường 5, Thành phố Cà Mau, Tỉnh Cà Mau, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p106 hide">
+                            <a href="#">
+                                <span>TopZone 320 Trần Hưng Đạo<span>Xem chỉ đường</span></span>
+                                <span>Số 320 đường Trần Hưng Đạo, Phường Đại Phúc, Thành phố Bắc Ninh, Tỉnh Bắc Ninh, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p124 hide">
+                            <a href="#">
+                                <span>TopZone 98 Điện Biên <span>Xem chỉ đường</span></span>
+                                <span>Số 98-98B-100 Đường Điện Biên, Phường Lê Lợi, Thành phố Hưng Yên, Tỉnh Hưng Yên, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p120 hide">
+                            <a href="#">
+                                <span>TopZone Hà Huy Tập<span>Xem chỉ đường</span></span>
+                                <span>nhà ông Trương Xuân Hải, Khối 1, Phường Hà Huy Tập, Thành phố Hà Tĩnh, Tỉnh Hà Tĩnh, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p133 hide">
+                            <a href="#">
+                                <span>TopZone Điện Biên <span>Xem chỉ đường</span></span>
+                                <span>Số 59 Đường Điện Biên, tổ 15, Phường Cửa Bắc, Thành phố Nam Định, Tỉnh Nam Định, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p82 hide">
+                            <a href="#">
+                                <span>TopZone Trần Hưng Đạo <span>Xem chỉ đường</span></span>
+                                <span>Số 170A Trần Hưng Đạo, Phường Mỹ Xuyên, Thành phố Long Xuyên, Tỉnh An Giang, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p122 hide">
+                            <a href="#">
+                                <span>TopZone Đường 3/2 <span>Xem chỉ đường</span></span>
+                                <span>Số 17, đường 3/2, Phường V, Thành phố Vị Thanh, Tỉnh Hậu Giang, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p7 hide">
+                            <a href="#">
+                                <span>TopZone Đường 3/2 <span>Xem chỉ đường</span></span>
+                                <span>217, Đường 3/2, Phường Hưng Lợi, Quận Ninh Kiều, Thành phố Cần Thơ, Việt Nam</span>
+                                <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p101 hide">
+                            <a href="#">
+                                <span>TopZone Trần Nhân Tông<span>Xem chỉ đường</span></span>
+                                <span>Số 1-3-5 đường Trần Nhân Tông, Phường Quán Trữ, Quận Kiến An, Thành phố Hải Phòng, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p7 hide">
+                            <a href="#">
+                                <span>TopZone Hoà Bình<span>Xem chỉ đường</span></span>
+                                <span>Số 08 Hoà Bình, Phường An Cư, Quận Ninh Kiều, Thành Phố Cần Thơ, Việt Nam H</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p154 hide">
+                            <a href="#">
+                                <span>TopZone Cái Vồn <span>Xem chỉ đường</span></span>
+                                <span>Tổ 21, khóm 5, Phường Cái Vồn, Thị xã Bình Minh, Tỉnh Vĩnh Long, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p101 hide">
+                            <a href="#">
+                                <span>TopZone Đà Nẵng <span>Xem chỉ đường</span></span>
+                                <span>Số 282 Đà Nẵng, Phường Vạn Mỹ, Quận Ngô Quyền, Thành phố Hải Phòng, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p154 hide">
+                            <a href="#">
+                                <span>TopZone Lê Thái Tổ <span>Xem chỉ đường</span></span>
+                                <span>Số 210 đường Lê Thái Tổ, Phường 2, Thành phố Vĩnh Long, Tỉnh Vĩnh Long, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p151 hide">
+                            <a href="#">
+                                <span>TopZone Cái Bè<span>Xem chỉ đường</span></span>
+                                <span>Số 212, Tổ 13, Khu phố 3, Thị trấn Cái Bè, Huyện Cái Bè, Tỉnh Tiền Giang, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p146 hide">
+                            <a href="#">
+                                <span>TopZone Cách Mạng Tháng Tám <span>Xem chỉ đường</span></span>
+                                <span>Số 583, đường Cách Mạng Tháng Tám, khu phố 2, Phường 3, Thành phố Tây Ninh, Tỉnh Tây Ninh, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p146 hide">
+                            <a href="#">
+                                <span>TopZone Hòa Thành<span>Xem chỉ đường</span></span>
+                                <span>Số 1/4, khu phố 3, Thị Trấn Hòa Thành, Thị xã Hoà Thành, Tỉnh Tây Ninh, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p142 hide">
+                            <a href="#">
+                                <span>TopZone Hạ Long <span>Xem chỉ đường</span></span>
+                                <span>Số 537 đường Hạ Long, Phường Bãi Cháy, Thành phố Hạ Long, Tỉnh Quảng Ninh, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p146 hide">
+                            <a href="#">
+                                <span>TopZone Quốc Lộ 22B <span>Xem chỉ đường</span></span>
+                                <span>Số 421, Quốc lộ 22B, khu phố Thanh Hà, Thị Trấn Gò Dầu, Huyện Gò Dầu, Tỉnh Tây Ninh, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p146 hide">
+                            <a href="#">
+                                <span>TopZone Trảng Bàng<span>Xem chỉ đường</span></span>
+                                <span>Số 10, Quốc lộ 22, Khu phố Gia Huỳnh, Thị Trấn Trảng Bàng, Thị xã Trảng Bàng, Tỉnh Tây Ninh, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p151 hide">
+                            <a href="#">
+                                <span>TopZone Ấp Bắc <span>Xem chỉ đường</span></span>
+                                <span>Số 49/2 đường Ấp Bắc, Phường 5, Thành phố Mỹ Tho, Tỉnh Tiền Giang, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p132 hide">
+                            <a href="#">
+                                <span>TopZone Hậu Nghĩa  <span>Xem chỉ đường</span></span>
+                                <span>Số 159-161, Đường 825, Ô 6, Khu B, Thị Trấn Hậu Nghĩa, Huyện Đức Hoà, Tỉnh Long An, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p142 hide">
+                            <a href="#">
+                                <span>TopZone Trần Phú  <span>Xem chỉ đường</span></span>
+                                <span>Số 209, đường Trần Phú, Phường Cẩm Tây, Thành phố Cẩm Phả, Tỉnh Quảng Ninh, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p107 hide">
+                            <a href="#">
+                                <span>TopZone Đồng Khởi <span>Xem chỉ đường</span></span>
+                                <span>Số 591B-592B2, Đại Lộ Đồng Khởi, Phường Phú Khương, Thành phố Bến Tre, Tinh Bến Tre, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p3 hide">
+                            <a href="#">
+                                <span>TopZone Quốc Lộ 22 <span>Xem chỉ đường</span></span>
+                                <span>874-874A Quốc lộ 22, khu phố 8, Thị Trấn Củ Chi, Huyện Củ Chi, Thành phố Hồ Chí Minh, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p132 hide">
+                            <a href="#">
+                                <span>TopZone Tỉnh Lộ 10 (Đức Hòa Hạ) <span>Xem chỉ đường</span></span>
+                                <span>Đường Tỉnh lộ 10, Xã Đức Hoà Hạ, Huyện Đức Hoà, Tỉnh Long An, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p3 hide">
+                            <a href="#">
+                                <span>TopZone Tỉnh Lộ 8<span>Xem chỉ đường</span></span>
+                                <span>49 Tỉnh lộ 8, khu phố 1, Thị Trấn Củ Chi, Huyện Củ Chi, Thành phố Hồ Chí Minh, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p132 hide">
+                            <a href="#">
+                                <span>TopZone Đỗ Tường Phong <span>Xem chỉ đường</span></span>
+                                <span>Số 179, Đường Đỗ Tường Phong, Thị Trấn Tầm Vu, Huyện Châu Thành, Tỉnh Long An, Việt Nam</span>
+                                <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p132 hide">
+                            <a href="#">
+                                <span>TopZone Nguyễn Hữu Thọ<span>Xem chỉ đường</span></span>
+                                <span>Số 15, Nguyễn Hữu Thọ, Khu Phố 3, Thị Trấn Bến Lức, Huyện Bến Lức, Tỉnh Long An, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p3 hide">
+                            <a href="#">
+                                <span>TopZone Quốc Lộ 22 <span>Xem chỉ đường</span></span>
+                                <span>Số 271-273 Quốc Lộ 22, ấp Đình, Xã Tân Phú Trung, Huyện Củ Chi, Thành phố Hồ Chí Minh, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p3 hide">
+                            <a href="#">
+                                <span>TopZone Nguyễn Thị Tú <span>Xem chỉ đường</span></span>
+                                <span>D7/23, ấp 4, đường Nguyễn Thị Tú, Xã Vĩnh Lộc B, Huyện Bình Chánh, Thành phố Hồ Chí Minh, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p110 hide">
+                            <a href="#">
+                                <span>TopZone 38 Quốc Lộ 13 <span>Xem chỉ đường</span></span>
+                                <span>Số 38 quốc lộ 13, tổ 6, khu phố 2, Phường Hưng Long, Thị xã Chơn Thành, Tỉnh Bình Phước, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p3 hide">
+                            <a href="#">
+                                <span>TopZone Nguyễn Thị Tú <span>Xem chỉ đường</span></span>
+                                <span>229 Nguyễn Thị Tú, Phường Bình Hưng Hòa B, Quận Bình Tân, Thành phố Hồ Chí Minh, Việt Nam</span>
+                            </a>
+                        </p>
+                        <p class="p3 hide">
+                            <a href="#">
+                                <span>TopZone Lê Văn Quới <span>Xem chỉ đường</span></span>
+                                <span>287A Khu phố 1 Lê Văn Quới, Phường Bình Trị Đông, Quận Bình Tân, Thành phố Hồ Chí Minh, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p3 hide">
+                            <a href="#">
+                                <span>TopZone Lê Trọng Tấn <span>Xem chỉ đường</span></span>
+                                <span>449 - 451 Lê Trọng Tấn, Phường Sơn Kỳ, Quận Tân Phú, Thành phố Hồ Chí Minh, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p3 hide">
+                            <a href="#">
+                                <span>TopZone Tô Ký  <span>Xem chỉ đường</span></span>
+                                <span>340 Tô Ký, Phường Tân Chánh Hiệp, Quận 12, Thành phố Hồ Chí Minh, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p3 hide">
+                            <a href="#">
+                                <span>TopZone Kinh Dương Vương<span>Xem chỉ đường</span></span>
+                                <span>473-475-477 Kinh Dương Vương, Khu phố 6, Phường An Lạc, Quận Bình Tân, Thành phố Hồ Chí Minh, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p132 hide">
+                            <a href="#">
+                                <span>TopZone Quốc Lộ 50 (Cần Đước) <span>Xem chỉ đường</span></span>
+                                <span>Thửa số 266, Tờ bản đồ số 5, Quốc Lộ 50, Thị trấn Cần Đước, Huyền Cần Đước, Tỉnh Long An, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p3 hide">
+                            <a href="#">
+                                <span>TopZone Trường Chinh<span>Xem chỉ đường</span></span>
+                                <span>Số 41-43 Trường Chinh, Phường Tân Thới Nhất, Quận 12, Thành phố Hồ Chí Minh, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p3 hide">
+                            <a href="#">
+                                <span>TopZone Nguyễn Sơn<span>Xem chỉ đường</span></span>
+                                <span>171 Nguyễn Sơn, Phường Phú Thạnh, Quận Tân Phú, Thành phố Hồ Chí Minh, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p107 hide">
+                            <a href="#">
+                                <span>TopZone 21A1 Trần Hưng Đạo (Ba Tri) <span>Xem chỉ đường</span></span>
+                                <span>Số 21A1, Trần Hưng Đạo, khu phố 2, Thị Trấn Ba Tri, Huyện Ba Tri, Tỉnh Bến Tre, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p3 hide">
+                            <a href="#">
+                                <span>TopZone Tân Kỳ Tân Quý<span>Xem chỉ đường</span></span>
+                                <span>105 Tân Kỳ Tân Qúy, Phường Tân Sơn Nhì, Quận Tân Phú, Thành phố Hồ Chí Minh, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p3 hide">
+                            <a href="#">
+                                <span>TopZone Phan Huy Ích<span>Xem chỉ đường</span></span>
+                                <span>Số 223-225 Phan Huy Ích, Phường 14, Quận Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p3 hide">
+                            <a href="#">
+                                <span>TopZone Âu Cơ <span>Xem chỉ đường</span></span>
+                                <span>670 Âu Cơ, Phường 10, Quận Tân Bình, Thành phố Hồ Chí Minh, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p3 hide">
+                            <a href="#">
+                                <span>TopZone Quang Trung <span>Xem chỉ đường</span></span>
+                                <span>Số 1044 - 1046 Quang Trung, Phường 8, Quận Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p3 hide">
+                            <a href="#">
+                                <span>TopZone Lê Văn Khương <span>Xem chỉ đường</span></span>
+                                <span>32/3 Lê Văn Khương, Phường Thới An, Quận 12, Thành phố Hồ Chí Minh, Việt Nam</span>
+                            </a>
+                        </p>
+                        <p class="p143 hide">
+                            <a href="#">
+                                <span>TopZone Hùng Vương <span>Xem chỉ đường</span></span>
+                                <span>Số 01 Hùng Vương, Phường 1, Thành phố Đông Hà, Tỉnh Quảng Trị, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p3 hide">
+                            <a href="#">
+                                <span>TopZone Nguyễn Tri Phương <span>Xem chỉ đường</span></span>
+                                <span>458 Nguyễn Tri Phương, Phường 09, Quận 10, Thành phố Hồ Chí Minh, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p109 hide">
+                            <a href="#">
+                                <span>TopZone Đại lộ Bình Dương <span>Xem chỉ đường</span></span>
+                                <span>Số 77 Đại lộ Bình Dương, Phường Phú Thọ, Thành phố Thủ Dầu Một, Tỉnh Bình Dương, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p3 hide">
+                            <a href="#">
+                                <span>TopZone Chánh Hưng <span>Xem chỉ đường</span></span>
+                                <span>328-328A đường Chánh Hưng, Phường 5, Quận 8, Thành phố Hồ Chí Minh, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p3 hide">
+                            <a href="#">
+                                <span>TopZone Nguyễn Oanh <span>Xem chỉ đường</span></span>
+                                <span>Số 620-622-624-626-628 Nguyễn Oanh, Phường 6, Quận Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p3 hide">
+                            <a href="#">
+                                <span>TopZone Trần Hưng Đạo <span>Xem chỉ đường</span></span>
+                                <span>532-534 Trần Hưng Đạo, Phường 02, Quận 5, Thành phố Hồ Chí Minh, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p109 hide">
+                            <a href="#">
+                                <span>TopZone Lái Thiêu<span>Xem chỉ đường</span></span>
+                                <span>Số 171, đường ĐT 745, khu phố Long Thới, Phường Lái Thiêu, Thị xã Thuận An, Tỉnh Bình Dương, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p3 hide">
+                            <a href="#">
+                                <span>TopZone Điện Biên Phủ<span>Xem chỉ đường</span></span>
+                                <span>191 Điện Biên Phủ , Phường 06, Quận 3, Thành phố Hồ Chí Minh, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p151 hide">
+                            <a href="#">
+                                <span>TopZone 313 Nguyễn Huệ  <span>Xem chỉ đường</span></span>
+                                <span>Số 313 Nguyễn Huệ, Phường 2, Thị xã Gò Công, Tỉnh Tiền Giang, Việt Nam</span>
+                            </a>
+                        </p>
+                        <p class="p3 hide">
+                            <a href="#">
+                                <span>TopZone Khánh Hội <span>Xem chỉ đường</span></span>
+                                <span>163-165 Khánh Hội, Phường 13, Quận 4, Thành phố Hồ Chí Minh, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p3 hide">
+                            <a href="#">
+                                <span>TopZone Nguyễn Xí <span>Xem chỉ đường</span></span>
+                                <span>125 Nguyễn Xí, Phường 26, Quận Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p3 hide">
+                            <a href="#">
+                                <span>TopZone 133 Xô Viết Nghệ Tĩnh <span>Xem chỉ đường</span></span>
+                                <span>133 Xô Viết Nghệ Tĩnh, Phường 17, Quận Bình Thạnh, Thành phố Hồ Chí Minh, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p3 hide">
+                            <a href="#">
+                                <span>TopZone Nguyễn Thị Thập<span>Xem chỉ đường</span></span>
+                                <span>428 Nguyễn Thị Thập, Phường Tân Quy, Quận 7, Thành phố Hồ Chí Minh, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p109 hide">
+                            <a href="#">
+                                <span>TopZone An Phú <span>Xem chỉ đường</span></span>
+                                <span>Số 63A/1, Khu phố 1A, Phường An Phú, Thị xã Thuận An, Tỉnh Bình Dương, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p3 hide">
+                            <a href="#">
+                                <span>TopZone Quốc lộ 1K <span>Xem chỉ đường</span></span>
+                                <span>30-32 Quốc lộ 1K, Phường Linh Xuân, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p109 hide">
+                            <a href="#">
+                                <span>TopZone 237 Nguyễn An Ninh<span>Xem chỉ đường</span></span>
+                                <span>Số 237 Nguyễn An Ninh, khu phố Bình Minh 2, Phường Dĩ An, Thị Xã Di An, Tỉnh Bình Dương, Việt Nam</span>
+                            </a>
+                        </p>
+                        <p class="p3 hide">
+                            <a href="#">
+                                <span>TopZone Nguyễn Duy Trinh <span>Xem chỉ đường</span></span>
+                                <span>374 - 376 Nguyễn Duy Trinh, Phường Bình Trưng Đông, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p109 hide">
+                            <a href="#">
+                                <span>TopZone 123 Lô M Uyên Hưng <span>Xem chỉ đường</span></span>
+                                <span>Số 123 Lô M, Khu dân cư Thương mại Uyên Hưng, Phường Uyên Hưng, Thị xã Tân Uyên, Tỉnh Bình Dương, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p3 hide">
+                            <a href="#">
+                                <span>TopZone 633 Lê Văn Việt <span>Xem chỉ đường</span></span>
+                                <span>633-633A-635 Lê Văn Việt, Ấp Cầu Xây, Phường Tân Phú, Thành phố Thủ Đức, Thành phố Hồ Chí Minh, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p8 hide">
+                            <a href="#">
+                                <span>TopZone Phạm Văn Thuận <span>Xem chỉ đường</span></span>
+                                <span>Số 1/1, Phạm Văn Thuận, KP 9, Phường Tam Hiệp, Thành phố Biên Hoà, Tỉnh Đồng Nai, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p102 hide">
+                            <a href="#">
+                                <span>TopZone Trương Công Định<span>Xem chỉ đường</span></span>
+                                <span>Số 290 Trương Công Định, Phường 8, Thành phố Vũng Tàu, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p102 hide">
+                            <a href="#">
+                                <span>TopZone Cách Mạng Tháng 8 <span>Xem chỉ đường</span></span>
+                                <span>267A Cách mạng tháng tám, Phường Phước Hiệp, Thành phố Bà Rịa, Tỉnh Bà Rịa - Vũng Tàu, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p8 hide">
+                            <a href="#">
+                                <span>TopZone Hùng Vương <span>Xem chỉ đường</span></span>
+                                <span>Số 207 đường Hùng Vương, Phường Xuân Hòa, Thành phố Long Khánh, Tỉnh Đồng Nai, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p116 hide">
+                            <a href="#">
+                                <span>TopZone Nguyễn Tất Thành <span>Xem chỉ đường</span></span>
+                                <span>05 Nguyễn Tất Thành , Phường Hoa Lư, Thành phố Pleiku, Tỉnh Gia Lai, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p9 hide">
+                            <a href="#">
+                                <span>TopZone Nguyễn Hữu Thọ <span>Xem chỉ đường</span></span>
+                                <span>351 Nguyễn Hữu Thọ, Phường Hoà Cường Bắc, Quận Hải Châu, Thành phố Đà Nẵng, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p6 hide">
+                            <a href="#">
+                                <span>TopZone Lê Duẩn <span>Xem chỉ đường</span></span>
+                                <span>Số 390-392-394-396 đường Lê Duẩn, Phường Ea Tam, TP.Buôn Ma Thuột, Tỉnh ĐăkLăk, Việt Nam</span>
+                            </a>
+                        </p>
+                        <p class="p111 hide">
+                            <a href="#">
+                                <span>TopZone Trần Hưng Đạo<span>Xem chỉ đường</span></span>
+                                <span>Số 80 Trần Hưng Đạo, Phường Phú Trinh, Thành phố Phan Thiết, Tỉnh Bình Thuận, Việt Nam</span>
+                                <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p140 hide">
+                            <a href="#">
+                                <span>TopZone 212 Phan Chu Trinh <span>Xem chỉ đường</span></span>
+                                <span>212-214 Phan Chu Trinh, Phường An Mỹ, Thành phố Tam Kỳ, Tỉnh Quảng Nam, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p129 hide">
+                            <a href="#">
+                                <span>TopZone Trần PhúT <span>Xem chỉ đường</span></span>
+                                <span>4/23-5/23 Trần Phú, Phường 4, Thành phố Đà Lạt, Tỉnh Lâm Đồng, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p136 hide">
+                            <a href="#">
+                                <span>TopZone Thống Nhất<span>Xem chỉ đường</span></span>
+                                <span>Số 312 - 312A Thống Nhất, Phường Phủ Hà, TP. Phan Rang-Tháp Chàm, Tỉnh Ninh Thuận, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p125 hide">
+                            <a href="#">
+                                <span>TopZone 93 Lý Tự Trọng<span>Xem chỉ đường</span></span>
+                                <span>93 đường Lý Tự Trọng, Khóm Đông Môn, Thị Trấn Diên Khánh, Huyện Diên Khánh, Tỉnh Khánh Hòa, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p108 hide">
+                            <a href="#">
+                                <span>TopZone 564 Trần Hưng Đạo <span>Xem chỉ đường</span></span>
+                                <span>Số 564-566 đường Trần Hưng Đạo, Phường Thị Nại, Thành phố Quy Nhơn, Tỉnh Bình Định, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p125 hide">
+                            <a href="#">
+                                <span>TopZone 58 Đường 23/10<span>Xem chỉ đường</span></span>
+                                <span>Số 58-58B đường 23/10, Phường Phương Sơn, Thành phố Nha Trang, Tỉnh Khánh Hòa, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p125 hide">
+                            <a href="#">
+                                <span>TopZone Quang Trung <span>Xem chỉ đường</span></span>
+                                <span>03 Quang Trung, Phường Vạn Thạnh, Thành phố Nha Trang, Tỉnh Khánh Hòa, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                        <p class="p125 hide">
+                            <a href="#">
+                                <span>TopZone Vạn Giã <span>Xem chỉ đường</span></span>
+                                <span>Khóm 5, Thị Trấn Vạn Giã, Huyện Vạn Ninh, Tỉnh Khánh Hòa, Việt Nam</span>
+                                    <span id="promoApple"><img src="https://cdn.tgdd.vn/mwgcart/topzone/images/common/Icon_ApplePay.png" /><b> Hỗ trợ thanh toán qua Apple Pay</b> </span>
+                            </a>
+                        </p>
+                </div>
+                
+                    <a href="javascript:;" class="viewmore">Xem thêm 90 cửa hàng</a>
+            </div>
+        </div>
+    
+            
+            <div class="policy">
+        <ul class="pr-policy">
+            <li>
+                <i class="topzone-homeDiver  "></i>
+                <span>Mẫu mã đa dạng, <br/>chính hãng</span>
+            </li>
+            <li>
+                <i class="topzone-homeDeli  "></i>
+                <span>Giao hàng toàn quốc</span>
+            </li>
+            <li>
+                <i class="topzone-homeInsur  "></i>
+                <span>Bảo hành có cam kết <br/>tới 12 tháng</span>
+            </li>
+            <li>
+                <i class="topzone-homeReturn  "></i>
+                <span>Có thể đổi trả tại <br>Thegioididong và DienmayXANH</span>
+            </li>
+        </ul>
+    </div>
+        </section>
+        <div class="slide-popup">
+            <div class="bg-popup"></div>
+        </div>
+        <footer>
+        <div class="foot">
+            <div class="logo-foot">
+                <a href="/">
+                    <i class="topzone-logo"></i>
+                </a>
+                <a href="/tekzone/khac-biet-aar-va-apr-tieu-chuan-cua-hang-uy-quyen-apple-1411356">
+                    <i class="topzone-autho"></i>
+                </a>
+            </div>
+            <ul class="list-foot">
+                <li>
+                    <span>Tổng đài</span>
+    
+                    <a href="tel:1900969642">
+                        <span>Mua hàng:</span>
+                        <b>1900.9696.42</b>
+                        (7:30 - 22:00)
+                    </a>
+                    <a href="tel:1900969642">
+                        <span>Khiếu nại:</span>
+                        <b>1900.9868.43</b>
+                        (8:00 - 21:30)
+                    </a>
+    
+                    <div class="footer-social">
+                        <p class="txt">Kết nối với chúng tôi</p>
+                        <a href="https://www.facebook.com/topzone.vn" target="_blank" class="link-social">
+                            <i class="iconsocial-facebook"></i>
+                        </a>
+                        <a href="https://www.youtube.com/channel/UCoWdPNr8jSr7JM0OFlKvQHw" target="_blank" class="link-social">
+                            <i class="iconsocial-youtube"></i>
+                        </a>
+                        <a href="https://zalo.me/2040551312124557463" target="_blank" class="link-social">
+                            <i class="iconsocial-zalo"></i>
+                        </a>
+                    </div>
+    
+                </li>
+                <li>
+                    <span>Hệ thống cửa hàng</span>
+                    <a href="#">
+                        Xem 96 cửa hàng 
+                    </a>
+                    <a href="#">
+                        Nội quy cửa hàng
+                    </a>
+                    <a href="#">
+                        Chất lượng phục vụ
+                    </a>
+                    <a href="#">
+                        Chính sách bảo hành & đổi trả
+                    </a>
+                </li>
+                <li>
+                    <span>Hỗ trợ khách hàng</span>
+                    <a href="#">
+                        Điều kiện giao dịch chung
+                    </a>
+                    <a href="#">
+                        Hướng dẫn mua hàng online
+                    </a>
+                    <a href="#">
+                        Chính sách giao hàng
+                    </a>
+                    <a href="#">
+                        Hướng dẫn thanh toán
+                    </a>
+                </li>
+                <li>
+                    <span>Về thương hiệu TopZone</span>
+    
+                        <a href="#" class="color-link">
+                            Tích điểm Quà tặng VIP
+                        </a>
+                    <a href="#">
+                        Giới thiệu TopZone
+                    </a>
+                    <a href="#">
+                        Bán hàng doanh nghiệp
+                    </a>
+                    <a href="#">
+                        Chính sách xử lý dữ liệu cá nhân
+                    </a>
+                    <a rel="nofollow" href="#">Xem bản mobile</a>
+                </li>
+                    <li>
+                        <span>Trung tâm bảo hành TopCare</span>
+                        <a href="#">
+                            Giới thiệu TopCare
+                        </a>
+                    </li>
+            </ul>
+            <div class="text-cpr">
+                <p>
+                    © 2018. Công ty cổ phần Thế Giới Di Động. GPDKKD: 0303217354 do sở KH & ĐT TP.HCM cấp ngày 02/01/2007. <br />
+                    Địa chỉ: 128 Trần Quang Khải, P.Tân Định, Q.1, TP. Hồ Chí Minh. Điện thoại: 028 38125960. Địa chỉ liên hệ và gửi chứng từ: Lô T2-1.2, Đường D1, Đ. D1, P.Tân Phú, TP.Thủ Đức, TP.Hồ Chí Minh. Chịu trách nhiệm nội dung: Huỳnh Văn Tốt. Email: hotrotmdt@thegioididong.com.
+                </p>
+            </div>
+            <div class="certify">
+                <a href="http://online.gov.vn/Home/WebDetails/88735" target="_blank">
+                    <img class="lazyload" src="//cdn.tgdd.vn/mwgcart/topzone/images/certify-bct.png" width="127" height="47" />
+                </a>
+                <a href="https://tinnhiemmang.vn/danh-ba-tin-nhiem/topzonevn-1635823490" title="Chung nhan Tin Nhiem Mang" target="_blank">
+                    <img class="lazyload" src="https://tinnhiemmang.vn/handle_cert?id=topzone.vn" width="150" height="40" alt="Chung nhan Tin Nhiem Mang">
+                </a>
+                <a href="//www.dmca.com/Protection/Status.aspx?ID=4f44c8e7-b645-4ddb-8aec-c130d0598c85" target="_blank" title="DMCA.com Protection Status" class="dmca-badge">
+                    <img class="lazyload" src="https://images.dmca.com/Badges/_dmca_premi_badge_4.png?ID=4f44c8e7-b645-4ddb-8aec-c130d0598c85" alt="DMCA.com Protection Status" width="135" height="32" aria- />
+                </a>
+            </div>
+        </div>
+        <div class="footer__logo">
+            <p class="footer__logo-hd">Ghé thăm các website khác cùng tập đoàn MWG</p>
+            <ul class="footer__logo-list">
+                <li>
+                    <a rel="nofollow" href="https://www.thegioididong.com/" target="_blank">
+                        <i class="iconlogo-thegioididong"></i>
+                    </a>
+                </li>
+                <li>
+                    <a rel="nofollow" href="https://www.dienmayxanh.com/" target="_blank">
+                        <i class="iconlogo-dienmayxanh"></i>
+                    </a>
+                </li>
+                <li>
+                    <a rel="nofollow" href="https://www.bachhoaxanh.com/" target="_blank">
+                        <i class="iconlogo-bachhoaxanh"></i>
+                    </a>
+                </li>
+                <li>
+                    <a rel="nofollow" href="https://www.nhathuocankhang.com/" target="_blank" title="Chuỗi nhà thuốc chuẩn GPP">
+                        <i class="iconlogo-ankhang"></i>
+                    </a>
+                </li>
+                <li>
+                    <a rel="nofollow" href="https://avakids.com/" target="_blank" title="Chuỗi cửa hàng mẹ và bé">
+                        <i class="iconlogo-kids"></i>
+                    </a>
+                </li>
+                <li>
+                    <a rel="nofollow" href="https://www.4kfarm.com/" target="_blank" title="Nông trại rau sạch">
+                        <i class="iconlogo-4kfarm"></i>
+                    </a>
+                </li>
+                <li>
+                    <a rel="nofollow" href="https://vieclam.thegioididong.com/" target="_blank" title="Trang tuyển dụng của tập đoàn Thế Giới Di Động">
+                        <i class="iconlogo-vieclam"></i>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </footer>
+            <script src="//cdn.tgdd.vn/mwgcart/topzone/js/bundle/global.min.v202307310930.js" type="text/javascript"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+        dataLayer.push({ 'pageType':'Home'})
+        </script>
+            <script src="//cdn.tgdd.vn/mwgcart/topzone/js/bundle/home.min.v202402060950.js" type="text/javascript"></script>
+    </body>
+</html>
